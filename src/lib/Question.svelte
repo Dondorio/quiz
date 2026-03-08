@@ -13,17 +13,22 @@
 		q,
 		name,
 		number,
-		showAnswer
-	}: { q: Question; name: string; number: number; showAnswer: boolean } = $props();
+		answer
+	}: {
+		q: Question;
+		name: string;
+		number: number;
+		answer: { chosen: string; correct: string } | null;
+	} = $props();
 
 	let selected: string | undefined = $state();
 
 	const isCorrect = (option: string) => {
-		return showAnswer ? option === q.answer : false;
+		return answer ? option === answer.correct : false;
 	};
 
 	const isWrong = (option: string) => {
-		return showAnswer ? selected === option && selected !== q.answer : false;
+		return answer ? answer.chosen === option && answer.chosen !== answer.correct : false;
 	};
 </script>
 
@@ -43,7 +48,7 @@
 					bind:group={selected}
 					value={option}
 					class="cursor-pointer"
-					disabled={showAnswer}
+					disabled={answer !== null}
 				/>
 
 				<span class="text-lg">
@@ -54,7 +59,7 @@
 		{/each}
 	</div>
 
-	{#if showAnswer}
+	{#if answer}
 		<p>
 			{q.explanation}
 		</p>
