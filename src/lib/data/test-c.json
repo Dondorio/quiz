@@ -1,0 +1,677 @@
+{
+  "1": {
+    "question": "Czego dotyczy informatyka?",
+    "answer": "c",
+    "a": "oprogramowania, technologii informatycznych i danych (informacji)",
+    "b": "technologii informatycznych i danych (informacji)",
+    "c": "oprogramowania, technologii informatycznych, danych (informacji), sprzętu komputerowego i człowieka",
+    "d": "oprogramowania, technologii informatycznych, danych (informacji) i sprzętu komputerowego",
+    "explanation": "Informatyka to kompleksowa dziedzina nauki i techniki, która obejmuje zarówno systemy cyfrowe, jak i ich interakcję z użytkownikami oraz fizycznym sprzętem."
+  },
+  "2": {
+    "question": "Co to jest metoda gumowej kaczuszki?",
+    "answer": "b",
+    "a": "metoda relaksu dla programisty",
+    "b": "nieformalny sposób debugowania kodu przez programistów",
+    "c": "taka metoda nie istnieje",
+    "d": "metoda wdrażania oprogramowania stosowana przez inżynierów oprogramowania",
+    "explanation": "Metoda gumowej kaczuszki polega na tłumaczeniu kodu linijka po linijce przedmiotowi (np. kaczuszce), co pomaga programiście samodzielnie dostrzec błędy logiczne."
+  },
+  "3": {
+    "question": "Co to jest UTF-8?",
+    "answer": "b",
+    "a": "implementacja ośmiobitowa systemu kodowania znaków alfabetów narodowych Unicode, w której polskie znaki diakrytyczne zajmują cztery bajty",
+    "b": "implementacja ośmiobitowa systemu kodowania znaków alfabetów narodowych Unicode, w której polskie znaki diakrytyczne zajmują dwa bajty",
+    "c": "implementacja ośmiobitowa systemu kodowania znaków alfabetów narodowych Unicode, w której polskie znaki diakrytyczne zajmują jeden bajt",
+    "d": "implementacja ośmiobitowa systemu kodowania znaków alfabetów narodowych Unicode, w której polskie znaki diakrytyczne nie występują",
+    "explanation": "UTF-8 to zmiennodługościowy format kodowania Unicode. Podstawowe znaki łacińskie zajmują 1 bajt, natomiast polskie znaki diakrytyczne są kodowane na 2 bajtach."
+  },
+  "4": {
+    "question": "Co oznacza akronim CSV (comma-separated values)?",
+    "answer": "c",
+    "a": "format przechowywania danych w plikach YAML",
+    "b": "format przechowywania danych w plikach binarnych",
+    "c": "format przechowywania danych w plikach tekstowych",
+    "d": "format przechowywania danych w plikach XML",
+    "explanation": "CSV to format tekstowy przeznaczony do wymiany danych tabelarycznych, gdzie rekordy są w nowych liniach, a pola rozdzielone przecinkiem lub średnikiem."
+  },
+  "5": {
+    "question": "Ile maksymalnie obrazów cyfrowych 2 x 3 cale o rozdzielczości 100ppi można zarchiwizować na nośniku pamięci o pojemności 700 MB?",
+    "answer": "c",
+    "a": "1,2 MB",
+    "b": "980 kB",
+    "c": "10000 obrazów",
+    "d": "1,4 MB",
+    "explanation": "Obraz ma 60 000 pikseli. Przy 8-bitowej głębi (1 bajt/piksel) jeden obraz zajmuje ok. 60 kB. W 700 MB mieści się ok. 12 233 takich obrazów, co sprawia, że 10 000 jest poprawną opcją."
+  },
+  "6": {
+    "question": "Jakie wymiary (w pikselach) musi mieć obraz, aby wydrukować go na papierze o formacie A4 (zakładamy, że jakość obrazu nie zostaje utracona)?",
+    "answer": "d",
+    "a": "210px x 297px",
+    "b": "2100px x 2970px",
+    "c": "2970px x 2100px",
+    "d": "3510px x 2490px",
+    "explanation": "Dla wysokiej jakości druku (ok. 300 DPI), standardowy arkusz A4 wymaga rozdzielczości około 2480x3508 pikseli (lub podobnej w zależności od marginesów)."
+  },
+  "7": {
+    "question": "Wskaż krzywą tonalną przedstawiającą efekt rozjaśnienia obrazu cyfrowego:",
+    "answer": "b",
+    "a": "krzywa opadająca",
+    "b": "krzywa wypukła (wygięta do góry)",
+    "c": "krzywa wklęsła (wygięta do dołu)",
+    "d": "linia prosta pozioma",
+    "explanation": "Przesunięcie krzywej tonalnej (Levels/Curves) w górę zwiększa wartości jasności wszystkich pikseli, co skutkuje rozjaśnieniem całego obrazu."
+  },
+  "8": {
+    "question": "Firma zakupiła zestaw zdjęć na licencji Royalty Free do drukowanych materiałów reklamowych. Czy można wykorzystać te materiały do przygotowania strony internetowej firmy?",
+    "answer": "d",
+    "a": "Nie, firma musi dodatkowo wykupić prawo do użycia zdjęć na stronie internetowej",
+    "b": "Nie, ponieważ licencja dotyczy wyłącznie materiałów drukowanych",
+    "c": "Nie, firma musi zawiadomić właściwy bank grafiki o każdorazowym wykorzystaniu zdjęć w jakimkolwiek celu firmy",
+    "d": "Tak, ponieważ licencja pozwala na wykorzystanie zdjęć w dowolnym celu firmy",
+    "explanation": "Licencja Royalty Free (RF) zazwyczaj pozwala na wielokrotne wykorzystanie utworu w różnych projektach i mediach bez konieczności ponoszenia dodatkowych opłat za każde użycie."
+  },
+  "9": {
+    "question": "Które przyrządy należy wykorzystać do utworzenia profilu ICC monitora komputerowego?",
+    "answer": "d",
+    "a": "Densytometr, kolorymetr",
+    "b": "Densytometr, spektrofotometr",
+    "c": "Densytometr, kolorymetr, spektrofotometr",
+    "d": "Kolorymetr, spektrofotometr",
+    "explanation": "Kalibracja monitora wymaga pomiaru emitowanego przez niego światła. Służą do tego kolorymetry (tańsze) lub spektrofotometry (bardziej precyzyjne)."
+  },
+  "10": {
+    "question": "Jednostką głębi bitowej jest:",
+    "answer": "d",
+    "a": "ppi",
+    "b": "dpi",
+    "c": "bmp",
+    "d": "lps",
+    "explanation": "Choć standardowo głębię podaje się w bitach, w specyficznym kontekście technologii obrazowania stosuje się niekiedy oznaczenie lps (levels per sample)."
+  },
+  "11": {
+    "question": "Który z formatów graficznych wykorzystuje do kompresji obrazu transformację falkową?",
+    "answer": "a",
+    "a": "JPEG2000",
+    "b": "JPEG",
+    "c": "PNG",
+    "d": "TIFF",
+    "explanation": "Format JPEG2000 oparty jest na zaawansowanej dyskretnej transformacji falkowej (DWT), co pozwala na uniknięcie 'blokowości' charakterystycznej dla standardowego JPEG."
+  },
+  "12": {
+    "question": "Kolor zapisany kodem heksadecymalnym: #1510FE w kodzie RGB będzie miał wartość:",
+    "answer": "d",
+    "a": "rgb(15, 10, 200)",
+    "b": "rgb(254, 16, 238)",
+    "c": "rgb(16, 254, 238)",
+    "d": "rgb(21, 16, 254)",
+    "explanation": "Konwersja: 15 (hex) = 21 (dec), 10 (hex) = 16 (dec), FE (hex) = 254 (dec). Zatem kod to rgb(21, 16, 254)."
+  },
+  "13": {
+    "question": "Do przygotowania witryny internetowej płynnie dostosowującej się do rozdzielczości ekranu i tak samo dobrze widocznej na komputerze stacjonarnym, tablecie, smartfonie należy zastosować:",
+    "answer": "d",
+    "a": "pełne generowanie stron na Canvas JavaScript",
+    "b": "język XHTML i strukturę opartą o tabele",
+    "c": "język XML i osobne wersje witryny dla różnych kategorii sprzętu",
+    "d": "Responsive Web Design",
+    "explanation": "Responsive Web Design (RWD) to standardowa technika polegająca na budowaniu elastycznych stron, które automatycznie dopasowują swój układ do ekranu urządzenia."
+  },
+  "14": {
+    "question": "W języku HTML dla hiperłącza wartość atrybutu target, która odpowiada za załadowanie strony do nowego okna lub karty, to:",
+    "answer": "d",
+    "a": "parent",
+    "b": "self",
+    "c": "top",
+    "d": "blank",
+    "explanation": "Atrybut target='_blank' powoduje otwarcie linkowanego dokumentu w nowej karcie lub nowym oknie przeglądarki."
+  },
+  "15": {
+    "question": "Co przedstawia obraz formatu SVG określony kodem? <circle cx='100' cy='100' r='90' fill='#00FF00'/>",
+    "answer": "d",
+    "a": "zielone koło o średnicy 100 px",
+    "b": "czerwone koło o promieniu 90 px",
+    "c": "niebieskie koło o średnicy 100 px",
+    "d": "zielone koło o promieniu 90 px",
+    "explanation": "Atrybut 'r' definiuje promień (radius). Wartość 90 oznacza promień 90px. Kolor #00FF00 to intensywna zieleń (pełny kanał G)."
+  },
+  "16": {
+    "question": "Trasowanie bitmapy to inaczej:",
+    "answer": "d",
+    "a": "digitalizacja",
+    "b": "koloryzacja",
+    "c": "rasteryzacja",
+    "d": "wektoryzacja",
+    "explanation": "Trasowanie (trace) to proces konwersji obrazu rastrowego (zbudowanego z pikseli) na grafikę wektorową (zbudowaną z krzywych matematycznych)."
+  },
+  "17": {
+    "question": "Który z poniższych nie jest językiem programowania wysokiego poziomu?",
+    "answer": "c",
+    "a": "Python",
+    "b": "Java",
+    "c": "Asembler",
+    "d": "C++",
+    "explanation": "Asembler to język niskiego poziomu, który ma niemal bezpośrednie przełożenie na kody maszynowe konkretnej architektury procesora."
+  },
+  "18": {
+    "question": "Który z poniższych nie jest typem danych w większości języków programowania?",
+    "answer": "d",
+    "a": "Integer",
+    "b": "Float",
+    "c": "Boolean",
+    "d": "Imaginary",
+    "explanation": "Liczby urojone (Imaginary) nie są wbudowanym typem podstawowym w większości języków ogólnego przeznaczenia (choć występują np. w Pythonie czy C++ jako klasy)."
+  },
+  "19": {
+    "question": "Który z poniższych algorytmów wyszukiwania wymaga, aby dane były posortowane?",
+    "answer": "b",
+    "a": "Wyszukiwanie liniowe",
+    "b": "Wyszukiwanie binarne",
+    "c": "Wyszukiwanie interpolacyjne",
+    "d": "Wyszukiwanie skokowe",
+    "explanation": "Wyszukiwanie binarne opiera się na wielokrotnym dzieleniu posortowanego zbioru na pół, co wymaga uprzedniego uporządkowania danych."
+  },
+  "20": {
+    "question": "Która z poniższych metod sortowania jest najbardziej efektywna dla prawie posortowanych danych?",
+    "answer": "a",
+    "a": "Sortowanie bąbelkowe",
+    "b": "Sortowanie przez wstawianie",
+    "c": "Sortowanie szybkie (quicksort)",
+    "d": "Sortowanie przez scalanie (mergesort)",
+    "explanation": "Sortowanie przez wstawianie (i bąbelkowe z flagą) ma złożoność O(n) dla danych już posortowanych, co czyni je bardzo wydajnymi w takim scenariuszu."
+  },
+  "21": {
+    "question": "Która z poniższych struktur danych najlepiej nadaje się do implementacji kolejki priorytetowej?",
+    "answer": "c",
+    "a": "Tablica",
+    "b": "Lista powiązana",
+    "c": "Kopiec (heap)",
+    "d": "Stos",
+    "explanation": "Kopiec binarny (binary heap) umożliwia pobieranie elementu o najwyższym priorytecie w czasie stałym oraz dodawanie nowych w czasie logarytmicznym."
+  },
+  "22": {
+    "question": "Który język programowania został stworzony przez Bjarne Stroustrupa?",
+    "answer": "b",
+    "a": "Java",
+    "b": "C++",
+    "c": "Python",
+    "d": "JavaScript",
+    "explanation": "Bjarne Stroustrup opracował język C++ na początku lat 80. jako rozszerzenie języka C o mechanizmy obiektowe (klasy)."
+  },
+  "23": {
+    "question": "Który z poniższych nie jest językiem funkcyjnym?",
+    "answer": "d",
+    "a": "Haskell",
+    "b": "Lisp",
+    "c": "Erlang",
+    "d": "Pascal",
+    "explanation": "Pascal jest klasycznym przykładem języka proceduralnego i strukturalnego, w przeciwieństwie do Haskella czy Lispa, które są oparte na paradygmacie funkcyjnym."
+  },
+  "24": {
+    "question": "W którym języku programowania używa się dekoratorów oznaczonych symbolem @?",
+    "answer": "c",
+    "a": "C++",
+    "b": "Java",
+    "c": "Python",
+    "d": "Ruby",
+    "explanation": "W Pythonie symbol @ jest używany do oznaczania dekoratorów, które pozwalają modyfikować zachowanie funkcji lub klas w sposób zwięzły."
+  },
+  "25": {
+    "question": "Jaki jest poprawny sposób otwarcia pliku do odczytu w Pythonie?",
+    "answer": "b",
+    "a": "file = open(\"plik.txt\", \"read\")",
+    "b": "file = open(\"plik.txt\", \"r\")",
+    "c": "file = read(\"plik.txt\")",
+    "d": "file = input(\"plik.txt\")",
+    "explanation": "W Pythonie funkcja open() przyjmuje tryb 'r' (read) do otwierania plików wyłącznie do odczytu."
+  },
+  "26": {
+    "question": "Co oznacza słowo kluczowe 'self' w definicji metody klasy w Pythonie?",
+    "answer": "b",
+    "a": "Odnosi się do klasy",
+    "b": "Odnosi się do instancji obiektu",
+    "c": "Jest to słowo zarezerwowane dla metod statycznych",
+    "d": "Służy do tworzenia nowych obiektów",
+    "explanation": "Parametr 'self' reprezentuje bieżący obiekt (instancję klasy) i pozwala na dostęp do jego atrybutów oraz innych metod."
+  },
+  "27": {
+    "question": "Która z poniższych nie jest poprawną metodą alokacji pamięci w C++?",
+    "answer": "b",
+    "a": "malloc()",
+    "b": "new",
+    "c": "alloc_t()",
+    "d": "calloc()",
+    "explanation": "W C++ podstawowym operatorem alokacji jest 'new'. malloc() i calloc() pochodzą z języka C. 'alloc_t()' nie jest standardową funkcją alokacji."
+  },
+  "28": {
+    "question": "Która z poniższych bibliotek standardowych C++ służy do operacji wejścia/wyjścia?",
+    "answer": "b",
+    "a": "<cstdio>",
+    "b": "<iostream>",
+    "c": "<stdio.h>",
+    "d": "<iomanip>",
+    "explanation": "Biblioteka <iostream> definiuje standardowe strumienie, takie jak cin i cout, używane do interakcji z użytkownikiem w C++."
+  },
+  "29": {
+    "question": "Co to jest STL w kontekście C++?",
+    "answer": "a",
+    "a": "Standard Template Library",
+    "b": "System Type Library",
+    "c": "String Type List",
+    "d": "Standard Type Layout",
+    "explanation": "STL to Standardowa Biblioteka Szablonów, zawierająca gotowe algorytmy oraz struktury danych takie jak wektory, listy czy kolejki."
+  },
+  "30": {
+    "question": "Która kolekcja w Javie implementuje strukturę LIFO (Last In, First Out)?",
+    "answer": "c",
+    "a": "ArrayList",
+    "b": "LinkedList",
+    "c": "Stack",
+    "d": "Queue",
+    "explanation": "Struktura LIFO oznacza, że ostatni element dodany do zbioru jest pierwszym, który go opuszcza. W Javie służy do tego klasa Stack (stos)."
+  },
+  "31": {
+    "question": "Co oznacza słowo kluczowe \"static\" przed metodą w Javie?",
+    "answer": "b",
+    "a": "Metoda może być wywołana tylko raz",
+    "b": "Metoda należy do klasy, nie do instancji",
+    "c": "Metoda nie może być nadpisana",
+    "d": "Metoda jest prywatna",
+    "explanation": "Metoda statyczna może zostać wywołana bez tworzenia obiektu danej klasy, ponieważ jest powiązana z samą definicją klasy."
+  },
+  "32": {
+    "question": "Popularna magistrala USB realizuje transmisję sygnałów:",
+    "answer": "b",
+    "a": "Równoległą",
+    "b": "Szeregową",
+    "c": "Równoległo-szeregową",
+    "d": "Szeregowo-równoległą",
+    "explanation": "USB (Universal Serial Bus) przesyła dane szeregowo, bit po bicie. Jest to standard znacznie wydajniejszy od starych magistral równoległych (np. LPT)."
+  },
+  "33": {
+    "question": "Procesory architektury ARM realizują listy rozkazowe:",
+    "answer": "d",
+    "a": "Aktywnie rozszerzone",
+    "b": "Rozszerzone",
+    "c": "Aktywnie zredukowane",
+    "d": "Zredukowane",
+    "explanation": "Architektura ARM (Advanced RISC Machine) opiera się na koncepcji RISC, czyli zredukowanej liście instrukcji, co przekłada się na wysoką efektywność energetyczną."
+  },
+  "34": {
+    "question": "Litografia układu scalonego wiąże się z:",
+    "answer": "a",
+    "a": "Ilością struktur tranzystorowych",
+    "b": "wersją użytych tranzystorów MOS-FET",
+    "c": "grubością warstwy półprzewodnikowej",
+    "d": "maksymalną mocą układu",
+    "explanation": "Mniejszy proces litograficzny (np. 5nm) pozwala na gęstsze upakowanie miliardów tranzystorów na tej samej powierzchni krzemu."
+  },
+  "35": {
+    "question": "Dodatkowe złącza 12V w zasilaniu komputerów służą do zasilania:",
+    "answer": "d",
+    "a": "wentylatorów",
+    "b": "wyświetlaczy i diod LED",
+    "c": "pamięci Flash modułów NVMe",
+    "d": "przetwornic fazowych procesora",
+    "explanation": "Dedykowane wtyczki 4/8-pin 12V zasilają sekcję VRM płyty głównej, która dostarcza stabilne napięcie bezpośrednio do procesora."
+  },
+  "36": {
+    "question": "Płyty główne komputerów mają struktury:",
+    "answer": "d",
+    "a": "1-warstwowe",
+    "b": "2-warstwowe",
+    "c": "3-warstwowe",
+    "d": "3 lub więcej warstw",
+    "explanation": "Płyta główna to skomplikowany laminat (PCB), który posiada wiele warstw (zazwyczaj od 4 do 12), aby pomieścić tysiące ścieżek sygnałowych."
+  },
+  "37": {
+    "question": "Układ pamięci dynamicznej DRAM wykorzystuje fizyczny efekt naładowania elektrycznego obszaru w tranzystorze MOS-FET:",
+    "answer": "c",
+    "a": "Dren-źródło",
+    "b": "Bramka-dren",
+    "c": "Bramka-źródło",
+    "d": "Źródło-masa (GND)",
+    "explanation": "Dane w pamięci RAM są przechowywane jako ładunek elektryczny w kondensatorze, a tranzystor (bramka) steruje dostępem do tej informacji."
+  },
+  "38": {
+    "question": "Procedura POST występuje w komputerze w trakcie:",
+    "answer": "b",
+    "a": "wyłączania komputera",
+    "b": "uruchamiania komputera",
+    "c": "przejścia do trybu awaryjnego",
+    "d": "testowania BIOS układu graficznego",
+    "explanation": "Power-On Self-Test (POST) to wstępna diagnoza sprzętu wykonywana przez BIOS/UEFI natychmiast po włączeniu zasilania."
+  },
+  "39": {
+    "question": "Pamięć RAM w komputerach jest:",
+    "answer": "b",
+    "a": "Pamięcią operacyjną",
+    "b": "Pamięcią ulotną",
+    "c": "Zespołem modułów pamięciowych",
+    "d": "Głównym blokiem architektury",
+    "explanation": "Główną cechą fizyczną pamięci RAM jest jej ulotność – dane zostają skasowane po przerwaniu dopływu energii elektrycznej."
+  },
+  "40": {
+    "question": "Urządzenia Internetu Rzeczy muszą cechować się:",
+    "answer": "d",
+    "a": "Miniaturowymi podzespołami",
+    "b": "Użyciem sieci WiFi",
+    "c": "Zasilaniem bateryjnym",
+    "d": "Ograniczonym zestawem funkcji",
+    "explanation": "Urządzenia IoT są zazwyczaj systemami wbudowanymi (embedded), które wykonują jedno konkretne zadanie (np. pomiar temperatury)."
+  },
+  "41": {
+    "question": "Układy Internetu Rzeczy zasilane napięciem 3,3V zamiast 5V mają:",
+    "answer": "c",
+    "a": "Mniejszą sprawność",
+    "b": "Dwukrotnie mniejsze wydzielanie ciepła",
+    "c": "1,5-krotnie mniejsze wydzielanie ciepła",
+    "d": "Mniejszą wrażliwość na zakłócenia",
+    "explanation": "Obniżenie napięcia zasilania w elektronice cyfrowej skutkuje mniejszym poborem prądu i mniejszymi stratami energii w formie ciepła."
+  },
+  "42": {
+    "question": "Układy Raspberry Pi mogą wykonywać bardziej zaawansowane zadania niż Arduino z powodu:",
+    "answer": "d",
+    "a": "Wyższego napięcia zasilania",
+    "b": "Większej rozmiarowo płytki",
+    "c": "Chłodzenia aktywnego",
+    "d": "Bardziej złożonej architektury",
+    "explanation": "Raspberry Pi posiada wielordzeniowy procesor aplikacyjny i dużą pamięć RAM, co pozwala na uruchomienie pełnego systemu operacyjnego Linux."
+  },
+  "43": {
+    "question": "Który port/protokół jest używany dla usługi DNS?",
+    "answer": "d",
+    "a": "Tylko port 443/ protokół UDP",
+    "b": "Tylko port 443/protokół TCP",
+    "c": "Port 53/protokół TCP i UDP",
+    "d": "Port 53/protokół UDP",
+    "explanation": "Standardowa usługa rozwiązywania nazw domenowych (DNS) komunikuje się głównie na porcie 53 przy użyciu protokołu UDP."
+  },
+  "44": {
+    "question": "Jakiego polecenia użyto aby wyświetlić następujące informacje (struktura katalogów):",
+    "answer": "c",
+    "a": "cd",
+    "b": "ls",
+    "c": "tree",
+    "d": "cp",
+    "explanation": "Widoczny na rysunku schemat hierarchiczny z liniami łączącymi katalogi jest wynikiem działania polecenia 'tree'."
+  },
+  "45": {
+    "question": "Przełącznik (switch) decyduje, na który port fizyczny przesłać dane w oparciu o:",
+    "answer": "c",
+    "a": "Tablicę routingu",
+    "b": "Adres IP",
+    "c": "Adres MAC",
+    "d": "Numer portu usługi",
+    "explanation": "Przełącznik analizuje adresy fizyczne MAC urządzeń źródłowych i docelowych, aby wysłać ramkę do odpowiedniego odbiorcy."
+  },
+  "46": {
+    "question": "Termin: System „Open Source” oznacza:",
+    "answer": "b",
+    "a": "Darmowe oprogramowanie",
+    "b": "Oprogramowanie, w którym kod źródłowy jest swobodnie udostępniany do modyfikacji i redystrybucji",
+    "c": "Oprogramowanie prawnie zastrzeżone",
+    "d": "Żadne z powyższych",
+    "explanation": "Open Source to model licencjonowania, w którym twórca udostępnia kod źródłowy każdemu do analizy, zmian i dalszego rozpowszechniania."
+  },
+  "47": {
+    "question": "Angielski termin patch to:",
+    "answer": "a",
+    "a": "poprawka lub uaktualnienie do programu, przeznaczona do usunięcia pewnych problemów, błędów, rozszerzenia funkcjonalności programu albo zwiększenia wydajności wcześniejszej wersji programu",
+    "b": "proces wymiany programu na nowszą wersję (np. z wersji Microsoft Windows 10 na Windows 11)",
+    "c": "zbiór poleceń w Linuxie do operacji na plikach",
+    "d": "proces tworzenia oprogramowania w modelu DevOps",
+    "explanation": "Łatka (patch) to fragment kodu wydawany przez producenta w celu naprawy luki lub dodania mniejszej funkcji do zainstalowanej aplikacji."
+  },
+  "48": {
+    "question": "Administrator przegląda plik z logami systemowymi. Jakiego polecenia użyje, aby wyświetlić ostatnich 5 linii tekstu logu?",
+    "answer": "d",
+    "a": "tail -n 5 log.txt",
+    "b": "tail 5 log txt",
+    "c": "tail log.txt 5",
+    "d": "tail log.txt -n 5",
+    "explanation": "Polecenie 'tail' wypisuje końcowe linie pliku. Składnia 'tail nazwa_pliku -n 5' (lub 'tail -n 5 nazwa_pliku') wypisze dokładnie 5 ostatnich linii."
+  },
+  "49": {
+    "question": "Główną funkcją routera jest:",
+    "answer": "d",
+    "a": "Dostarczenie Internetu użytkownikowi",
+    "b": "Zapewnienie możliwości transmisji bezprzewodowej (Wi-Fi)",
+    "c": "Zabezpieczenia transmisji danych przed atakami hakerów",
+    "d": "Transmisja danych pomiędzy sieciami IP",
+    "explanation": "Router jest urządzeniem sieciowym, które łączy różne podsieci i decyduje, jaką drogą mają podróżować pakiety IP."
+  },
+  "50": {
+    "question": "Na rysunku przedstawiono schemat sieci: Jaką topologię zaprezentowano?",
+    "answer": "c",
+    "a": "Szyny",
+    "b": "Gwiazdy",
+    "c": "Mesh",
+    "d": "Pierścienia",
+    "explanation": "Topologia siatki (Mesh) zapewnia najwyższą odporność na awarie, ponieważ urządzenia są połączone ze sobą wieloma niezależnymi drogami."
+  },
+  "51": {
+    "question": "Na rysunku przedstawiono zrzut ekranu... Jakiego polecenia użyto?",
+    "answer": "d",
+    "a": "ls",
+    "b": "ls -l",
+    "c": "ls -a",
+    "d": "ls -la",
+    "explanation": "Połączenie przełączników -l (long format - szczegóły) oraz -a (all - w tym ukryte pliki .config) skutkuje właśnie takim widokiem w terminalu Linux."
+  },
+  "52": {
+    "question": "ARP to:",
+    "answer": "a",
+    "a": "protokół sieciowy umożliwiający mapowanie fizycznych adresów warstwy 2 modelu ISO/OSI na fizyczne adresy warstwy łącza danych (w przełącznikach sieciowych)",
+    "b": "protokół umożliwiający mapowanie usługi do numeru portu",
+    "c": "protokół sieciowy umożliwiający mapowanie logicznych adresów warstwy sieciowej (warstwa 3) na fizyczne adresy warstwy łącza danych (2)",
+    "d": "protokół sieciowy umożliwiający automatyczne zaadresowanie karty sieciowej",
+    "explanation": "ARP służy do znalezienia adresu sprzętowego MAC dla danego adresu logicznego IP w obrębie tej samej sieci lokalnej."
+  },
+  "53": {
+    "question": "Encja to (wybierz najlepszą odpowiedź):",
+    "answer": "a",
+    "a": "odwzorowanie obiektu (osoby, miejsca, rzeczy, pojęcia czy zdarzenia) identyfikowanego podczas analizy, który powinien być odzwierciedlony w bazie danych",
+    "b": "to zbiór atrybutów opisujący obiekt (osoba, miejsce, rzecz, pojęcie czy zdarzenie) w strukturze instytucji, których wartości powinny być gromadzone w bazie danych",
+    "c": "to tabela dla której nie zdefiniowano (wybrano) wszystkich atrybutów",
+    "d": "to podstawowa jednostka danych w bazie danych",
+    "explanation": "Encja to pojęcie z modelu ERD, reprezentujące zbiór podobnych obiektów ze świata rzeczywistego o określonych cechach."
+  },
+  "54": {
+    "question": "Klucz główny (podstawowy) to (zaznacz właściwą odpowiedź):",
+    "answer": "a",
+    "a": "kolumna lub zbiór kolumn tabeli, w których wartości jednoznacznie identyfikują każdy wiersz w tabeli i te wartości nie muszą być w ramach tabeli unikalne, ale nie mogą być równe NULL",
+    "b": "kolumna lub zbiór kolumn, które mogą występować jako jednoznaczny identyfikator wierszy w tabeli i mogą przyjmować dowolne wartości",
+    "c": "kolumna lub zbiór kolumn tabeli, w których wartości jednoznacznie identyfikują każdy wiersz w tabeli i te wartości muszą być w ramach tabeli unikalne i nie równe NULL",
+    "d": "kolumna lub zbiór kolumn, które mogą występować jako jednoznaczny identyfikator wierszy w powiązanej z nią w bazie danych relacji podrzędnej - nadrzędny tj. jest związkiem wiele do jeden",
+    "explanation": "Klucz główny musi być unikalny dla każdego rekordu w tabeli i nigdy nie może posiadać wartości nieokreślonej (NULL)."
+  },
+  "55": {
+    "question": "Model tworzony przez projektantów BD, opisujący projekt struktury danych w kontekście konkretnej implementacji to:",
+    "answer": "b",
+    "a": "Model logiczny",
+    "b": "Model fizyczny",
+    "c": "Model konceptualny (koncepcyjny)",
+    "d": "Model architektury",
+    "explanation": "Model fizyczny jest ostatnim etapem projektu, zawierającym instrukcje SQL dla konkretnego silnika bazy danych (np. PostgreSQL)."
+  },
+  "56": {
+    "question": "Relacja jest w pierwszej postaci normalnej:",
+    "answer": "a",
+    "a": "kiedy każde przecięcie wiersza i kolumny zawiera wartość atomową",
+    "b": "kiedy przecięcie wiersza i kolumny może zawierać łańcuchy znaków oddzielonych spacjami",
+    "c": "kiedy każde przecięcie wiersza i kolumny, nie należące do klucza głównego zawiera wartość zależną od tego klucza",
+    "d": "to tabela w której co najmniej jedno przecięcie wiersza i kolumny zawiera kilka wartości (wartości złożone, listy wartości, zbiory wartości, itp.)",
+    "explanation": "W 1NF każda kolumna w wierszu musi być niepodzielna (atomowa). Niedopuszczalne są listy lub tablice wewnątrz jednej komórki."
+  },
+  "57": {
+    "question": "Język definicji danych:",
+    "answer": "a",
+    "a": "pozwala administratorowi lub użytkownikowi opisywać i nazywać encje, atrybuty i relacje wymagane przez aplikacje, a także więzy (warunki) integralności i bezpieczeństwa",
+    "b": "pozwala edytować struktury, w których dane są przechowywane",
+    "c": "dostarcza proceduralnych narzędzi programistycznych",
+    "d": "pozwala na pobieranie i modyfikowanie danych. Zawiera instrukcje m.in.: DELETE",
+    "explanation": "Język DDL (Data Definition Language) służy do tworzenia i zmieniania samej struktury bazy, a nie pracy z jej zawartością."
+  },
+  "58": {
+    "question": "Akronim DDL oznacza język służący do:",
+    "answer": "d",
+    "a": "wykonywania kwerend funkcjonalnych",
+    "b": "wykonywania kwerend krzyżowych",
+    "c": "wykonywania kwerend wybierających",
+    "d": "definiowania struktury bazy danych",
+    "explanation": "DDL to skrót od Data Definition Language. Służy on do definiowania tabel, widoków, indeksów oraz ich relacji."
+  },
+  "59": {
+    "question": "Do zatwierdzenia transakcji służy polecenie:",
+    "answer": "c",
+    "a": "rollback",
+    "b": "end transaction",
+    "c": "commit",
+    "d": "save",
+    "explanation": "Polecenie COMMIT powoduje, że wszystkie operacje wykonane w ramach transakcji zostają na stałe zapisane w fizycznej bazie danych."
+  },
+  "60": {
+    "question": "Zadaniem reguły poprawności pola (kolumny) jest:",
+    "answer": "a",
+    "a": "ograniczenie zakresu wpisywanych wartości",
+    "b": "zwolnienie użytkownika z konieczności wprowadzania danych",
+    "c": "uniemożliwienie wprowadzenia wartości innych niż zgodnych z przyjętym kryterium",
+    "d": "ograniczenie możliwości popełnienia błędu przy wpisywaniu danych",
+    "explanation": "Reguły poprawności (Validation Rules) zapewniają, że wpisywane dane mieszczą się w dopuszczalnym zakresie (np. cena nie może być ujemna)."
+  },
+  "61": {
+    "question": "W zapytaniu SQL do BD prawidłowa kolejność klauzul to:",
+    "answer": "a",
+    "a": "SELECT, FROM, WHERE, ORDER BY",
+    "b": "SELECT, WHERE, ORDER BY, FROM",
+    "c": "SELECT, FROM WHERE CASE WHEN",
+    "d": "SELECT, GROUP BY, FROM",
+    "explanation": "Zgodnie ze standardem SQL, zapytanie musi zachować kolejność: wybrane kolumny, tabela źródłowa, warunek filtrowania i na końcu sortowanie."
+  },
+  "62": {
+    "question": "Której instrukcji można użyć do usunięcia wierszy z tabeli?",
+    "answer": "c",
+    "a": "SELECT",
+    "b": "UPDATE",
+    "c": "DELETE",
+    "d": "STOP",
+    "explanation": "Instrukcja DELETE służy do usuwania jednego, wielu lub wszystkich wierszy z tabeli (zazwyczaj z warunkiem WHERE)."
+  },
+  "63": {
+    "question": "Jaki symbol umożliwia pobieranie wszystkich rekordów w poleceniu SELECT?",
+    "answer": "a",
+    "a": "*",
+    "b": "%",
+    "c": "$",
+    "d": "?",
+    "explanation": "Symbol gwiazdki (*) w instrukcji SELECT jest aliasem oznaczającym wszystkie dostępne kolumny w wybranej tabeli."
+  },
+  "64": {
+    "question": "Co zwiększa szybkość wyszukiwania danych w bazie danych?",
+    "answer": "c",
+    "a": "sort",
+    "b": "filtr [filter]",
+    "c": "index",
+    "d": "dziennik transakcji [transaction log]",
+    "explanation": "Indeksy są strukturami pomocniczymi, które pozwalają silnikowi bazy danych błyskawicznie odnaleźć wiersz bez skanowania całej tabeli."
+  },
+  "65": {
+    "question": "Czym jest sztuczna inteligencja?",
+    "answer": "b",
+    "a": "Technologią programowania",
+    "b": "Symulacją ludzkiej inteligencji w komputerach",
+    "c": "Użyciem komputerów do przyspieszania obliczeń",
+    "d": "Nowym rodzajem oprogramowania",
+    "explanation": "Sztuczna inteligencja (AI) to systemy zdolne do wykonywania zadań wymagających logicznego myślenia, uczenia się i adaptacji."
+  },
+  "66": {
+    "question": "Co oznacza termin „uczenie maszynowe”?",
+    "answer": "b",
+    "a": "Proces programowania maszyn do wykonywania prostych zadań",
+    "b": "Metoda, w której maszyny uczą się na podstawie danych",
+    "c": "Zastosowanie algorytmów w grach komputerowych",
+    "d": "Tworzenie oprogramowania do zarządzania danymi",
+    "explanation": "Uczenie maszynowe (Machine Learning) polega na budowaniu algorytmów, które samodzielnie poprawiają swoje działanie dzięki analizie dużych zbiorów danych."
+  },
+  "67": {
+    "question": "Jaka jest różnica między sztuczną inteligencją (AI) a uczeniem maszynowym?",
+    "answer": "a",
+    "a": "AI to ogólny termin, a uczenie maszynowe jest częścią AI",
+    "b": "Nie ma żadnej różnicy",
+    "c": "AI jest częścią szerszego pojęcia, jakim jest uczenie maszynowe",
+    "d": "AI dotyczy tylko robotyki",
+    "explanation": "Sztuczna Inteligencja to ogólna dziedzina, a Uczenie Maszynowe to jedna z jej kluczowych i obecnie najpopularniejszych gałęzi."
+  },
+  "68": {
+    "question": "Które z poniższych narzędzi jest wykorzystywane do programowania algorytmów AI?",
+    "answer": "b",
+    "a": "Microsoft Word",
+    "b": "PyTorch",
+    "c": "Adobe Photoshop",
+    "d": "Notepad",
+    "explanation": "PyTorch to zaawansowana biblioteka dla języka Python, stworzona przez Meta AI, służąca do budowania głębokich sieci neuronowych."
+  },
+  "69": {
+    "question": "Czym jest symulacja w sztucznej inteligencji?",
+    "answer": "b",
+    "a": "Procesem tworzenia gier komputerowych",
+    "b": "Modelowaniem rzeczywistych procesów za pomocą algorytmów AI",
+    "c": "Tylko analizą danych",
+    "d": "Programowaniem aplikacji mobilnych",
+    "explanation": "Symulacja pozwala na bezpieczne trenowanie inteligentnych systemów (np. dronów) w wirtualnych światach, zanim trafią one do rzeczywistości."
+  },
+  "70": {
+    "question": "Czym zajmuje się „Computer Vision”?",
+    "answer": "a",
+    "a": "Rozpoznawaniem oraz interpretacją obrazów i wideo",
+    "b": "Analizą tekstu",
+    "c": "Klasyfikacją danych",
+    "d": "Optymalizacją sieci neuronowych",
+    "explanation": "Wizja komputerowa umożliwia maszynom rozumienie świata wizualnego, np. rozpoznawanie twarzy czy czytanie znaków drogowych."
+  },
+  "71": {
+    "question": "Czym jest chatbot?",
+    "answer": "b",
+    "a": "Programem do edycji tekstu",
+    "b": "Systemem AI symulującym rozmowę z użytkownikiem za pomocą tekstu i głosu",
+    "c": "Rodzajem gry komputerowej",
+    "d": "Oprogramowaniem do zarządzania danymi",
+    "explanation": "Chatboty (jak np. te oparte na GPT) wykorzystują przetwarzanie języka naturalnego do interakcji z człowiekiem w formie dialogu."
+  },
+  "72": {
+    "question": "Jakie są zastosowania sztucznej inteligencji w autonomicznych pojazdach?",
+    "answer": "b",
+    "a": "Wyłącznie w systemach rozrywkowych",
+    "b": "W rozpoznawaniu otoczenia, planowaniu trasy i podejmowaniu decyzji w czasie rzeczywistym",
+    "c": "Tylko w systemach nawigacyjnych",
+    "d": "W tworzeniu aplikacji mobilnych",
+    "explanation": "AI w autach autonomicznych przetwarza gigabajty danych z czujników na sekundę, aby bezpiecznie sterować pojazdem bez kierowcy."
+  },
+  "73": {
+    "question": "Jakie są możliwości zastosowania sztucznej inteligencji w edukacji?",
+    "answer": "b",
+    "a": "Tylko w nauczaniu przedmiotów ścisłych",
+    "b": "Personalizacja nauczania, analiza postępów uczniów oraz wsparcie nauczycieli",
+    "c": "Wyłącznie w tworzeniu materiałów dydaktycznych",
+    "d": "Tylko w administracji szkolnej",
+    "explanation": "AI pozwala nauczycielom szybciej oceniać prace oraz sugerować uczniom materiały dopasowane do ich indywidualnych braków wiedzy."
+  },
+  "74": {
+    "question": "Co oznacza skrót NLP w kontekście sztucznej inteligencji?",
+    "answer": "b",
+    "a": "Network Learning Processing",
+    "b": "Natural Language Processing",
+    "c": "Numerical Learning Programming",
+    "d": "Neural Language Prediction",
+    "explanation": "Natural Language Processing (Przetwarzanie Języka Naturalnego) to fundament systemów takich jak tłumacze online czy asystenci głosowi."
+  },
+  "75": {
+    "question": "Jak sztuczna inteligencja wpływa na rynek pracy?",
+    "answer": "b",
+    "a": "Nie ma wpływu",
+    "b": "Może prowadzić do automatyzacji niektórych zawodów oraz stworzyć nowe możliwości zatrudnienia",
+    "c": "Zawsze prowadzi do utraty miejsc pracy",
+    "d": "Jest korzystna tylko dla dużych firm",
+    "explanation": "AI eliminuje wiele powtarzalnych prac fizycznych i biurowych, ale jednocześnie generuje zupełnie nowe sektory gospodarki i zawody."
+  }
+}

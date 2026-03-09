@@ -1,0 +1,677 @@
+{
+	"1": {
+		"question": "Czy człowiek ma jako istota biologiczna w mózgu:",
+		"answer": "d",
+		"a": "oprogramowanie aplikacyjne i system operacyjny?",
+		"b": "oprogramowanie aplikacyjne i inteligencję?",
+		"c": "system operacyjny i inteligencję?",
+		"d": "oprogramowanie aplikacyjne, system operacyjny i naturalną inteligencję?",
+		"explanation": "Pytanie ma charakter metaforyczny, porównujący funkcje mózgu do architektury komputerowej; odpowiedź 'd' jest najbardziej kompletnym zestawieniem w tej analogii."
+	},
+	"2": {
+		"question": "Co to jest oprogramowanie aplikacyjne?",
+		"answer": "d",
+		"a": "oprogramowanie potrzebne dla systemu komputerowego",
+		"b": "oprogramowanie potrzebne dla systemu komputerowego i administratorów komputerów",
+		"c": "oprogramowanie potrzebne dla systemu komputerowego i sztucznej inteligencji",
+		"d": "oprogramowanie z graficznym interfejsem GUI potrzebne dla systemu komputerowego i użytkowników",
+		"explanation": "Oprogramowanie aplikacyjne (aplikacje) służy do wykonywania konkretnych zadań bezpośrednio dla użytkownika, zazwyczaj wykorzystując interfejs graficzny."
+	},
+	"3": {
+		"question": "Co to jest OpenDocument (ODF)?",
+		"answer": "a",
+		"a": "otwarty standard ISO formatu plików pakietów biurowych",
+		"b": "otwarty standard ISO formatu plików pakietów biurowych opracowany i promowany przez Microsoft",
+		"c": "otwarty i binarny standard ISO formatu plików pakietów biurowych",
+		"d": "otwarty i niestandaryzowany format plików pakietów biurowych",
+		"explanation": "ODF to otwarty standard oparty na XML, zatwierdzony przez ISO, służący do zapisu dokumentów biurowych niezależnie od producenta oprogramowania."
+	},
+	"4": {
+		"question": "Co to jest JavaScript Object Notation (JSON)?",
+		"answer": "a",
+		"a": "lekki format wymiany danych komputerowych",
+		"b": "biblioteka języka Java Script",
+		"c": "framework języka Java Script",
+		"d": "format wizualizacji kodu języka Java Script",
+		"explanation": "JSON to lekki format wymiany danych, czytelny dla ludzi i łatwy do przetwarzania przez maszyny."
+	},
+	"5": {
+		"question": "Jaki rozmiar będzie miał plik BMP o rozmiarach 800x600 zapisany w 24-bitowej palecie barw?",
+		"answer": "d",
+		"a": "1,2 MB",
+		"b": "980 kB",
+		"c": "400 kB",
+		"d": "1,4 MB",
+		"explanation": "Obliczenie: (800 * 600 pikseli) * 3 bajty (bo 24 bity = 3 bajty) = 1 440 000 bajtów, co w przybliżeniu daje 1,4 MB."
+	},
+	"6": {
+		"question": "Jakie wymiary (w pikselach) musi mieć obraz, aby wydrukować go na papierze o formacie A4 (zakładamy, że jakość obrazu nie zostaje utracona)?",
+		"answer": "d",
+		"a": "210px x 297px",
+		"b": "2100px x 2970px",
+		"c": "2970px x 2100px",
+		"d": "3510px x 2490px",
+		"explanation": "Dla wysokiej jakości druku (ok. 300 DPI), arkusz A4 (210x297 mm) wymaga rozdzielczości około 2480x3508 pikseli."
+	},
+	"7": {
+		"question": "Wskaż krzywą tonalną przedstawiającą efekt rozjaśnienia obrazu cyfrowego:",
+		"answer": "b",
+		"a": "krzywa wklęsła (wygięta w dół)",
+		"b": "krzywa wypukła (wygięta w górę)",
+		"c": "linia prosta o nachyleniu ujemnym",
+		"d": "krzywa typu 'S' przesunięta w prawo",
+		"explanation": "Krzywa wygięta w górę (wypukła) podnosi wartości jasności pikseli, co skutkuje rozjaśnieniem obrazu. "
+	},
+	"8": {
+		"question": "Firma zakupiła zestaw zdjęć na licencji Royalty Free do drukowanych materiałów reklamowych. Czy można wykorzystać te materiały do przygotowania strony internetowej firmy?",
+		"answer": "d",
+		"a": "Nie, firma musi dodatkowo wykupić prawo do użycia zdjęć na stronie internetowej",
+		"b": "Nie, ponieważ licencja dotyczy wyłącznie materiałów drukowanych",
+		"c": "Nie, firma musi zawiadomić właściwy bank grafiki",
+		"d": "Tak, ponieważ licencja pozwala na wykorzystanie zdjęć w dowolnym celu firmy",
+		"explanation": "Licencja Royalty Free zazwyczaj pozwala na wielokrotne wykorzystanie utworu w różnych polach eksploatacji bez konieczności wnoszenia dodatkowych opłat za każde użycie."
+	},
+	"9": {
+		"question": "Które przyrządy należy wykorzystać do utworzenia profilu ICC monitora komputerowego?",
+		"answer": "d",
+		"a": "Densytometr, kolorymetr",
+		"b": "Densytometr, spektrofotometr",
+		"c": "Densytometr, kolorymetr, spektrofotometr",
+		"d": "Kolorymetr, spektrofotometr",
+		"explanation": "Do kalibracji i profilowania monitorów używa się kolorymetrów lub spektrofotometrów, które mierzą światło emitowane przez ekran."
+	},
+	"10": {
+		"question": "Jednostką głębi bitowej jest:",
+		"answer": "d",
+		"a": "ppi",
+		"b": "dpi",
+		"c": "bmp",
+		"d": "lps",
+		"explanation": "W specyficznym kontekście tego testu 'lps' może odnosić się do 'levels per sample', choć standardowo głębię podaje się po prostu w bitach."
+	},
+	"11": {
+		"question": "Który z formatów graficznych wykorzystuje do kompresji obrazu transformację falkową?",
+		"answer": "a",
+		"a": "JPEG2000",
+		"b": "JPEG",
+		"c": "PNG",
+		"d": "TIFF",
+		"explanation": "JPEG2000 opiera się na dyskretnej transformacji falkowej (DWT), co pozwala na lepszą kompresję niż standardowy JPEG używający DCT."
+	},
+	"12": {
+		"question": "Kolor zapisany kodem heksadecymalnym: #1510FE w kodzie RGB będzie miał wartość:",
+		"answer": "d",
+		"a": "rgb(15,10,200)",
+		"b": "rgb(254,16,238)",
+		"c": "rgb(16, 254, 238)",
+		"d": "rgb(21,16,254)",
+		"explanation": "Konwersja z systemu szesnastkowego na dziesiętny: 15h = 21, 10h = 16, FEh = 254."
+	},
+	"13": {
+		"question": "Do przygotowania witryny internetowej płynnie dostosowującej się do rozdzielczości ekranu należy zastosować:",
+		"answer": "d",
+		"a": "pełne generowanie stron na Canvas JavaScript",
+		"b": "język XHTML i strukturę opartą o tabele",
+		"c": "język XML i osobne wersje witryny",
+		"d": "Responsive Web Design",
+		"explanation": "Responsive Web Design (RWD) to technika projektowania stron tak, aby ich układ automatycznie dostosowywał się do rozmiaru okna przeglądarki."
+	},
+	"14": {
+		"question": "W języku HTML dla hiperłącza wartość atrybutu target, która odpowiada za załadowanie strony do nowego okna lub karty, to:",
+		"answer": "d",
+		"a": "parent",
+		"b": "self",
+		"c": "top",
+		"d": "blank",
+		"explanation": "Atrybut target='_blank' instruuje przeglądarkę, aby otworzyła dokument w nowej karcie lub oknie."
+	},
+	"15": {
+		"question": "Co przedstawia obraz formatu SVG określony kodem? <circle cx='100' cy='100' r='90' fill='#00FF00'/>",
+		"answer": "d",
+		"a": "zielone koło o średnicy 100 px",
+		"b": "czerwone koło o promieniu 90 px",
+		"c": "niebieskie koło o średnicy 100 px",
+		"d": "zielone koło o promieniu 90 px",
+		"explanation": "Atrybut 'r=90' oznacza promień (radius) równy 90, a kolor #00FF00 to czysta zieleń w systemie RGB."
+	},
+	"16": {
+		"question": "Trasowanie bitmapy to inaczej:",
+		"answer": "d",
+		"a": "digitalizacja",
+		"b": "koloryzacja",
+		"c": "rasteryzacja",
+		"d": "wektoryzacja",
+		"explanation": "Trasowanie to proces konwersji obrazu rastrowego (mapy bitowej) na postać wektorową."
+	},
+	"17": {
+		"question": "Która struktura danych działa na zasadzie 'pierwszy wchodzi, pierwszy wychodzi' (FIFO)?",
+		"answer": "b",
+		"a": "Stos",
+		"b": "Kolejka",
+		"c": "Drzewo binarne",
+		"d": "Tablica mieszająca",
+		"explanation": "FIFO (First-In, First-Out) to zasada działania kolejki (queue), gdzie element dodany jako pierwszy jest obsługiwany jako pierwszy. "
+	},
+	"18": {
+		"question": "Co to jest rekurencja w programowaniu?",
+		"answer": "b",
+		"a": "Pętla, która wykonuje się nieskończoną ilość razy",
+		"b": "Funkcja, która wywołuje samą siebie",
+		"c": "Metoda optymalizacji kodu",
+		"d": "Typ zmiennej w języku programowania",
+		"explanation": "Rekurencja (rekursja) to sytuacja, w której funkcja w swojej definicji zawiera wywołanie samej siebie."
+	},
+	"19": {
+		"question": "Co to jest algorytm zachłanny?",
+		"answer": "a",
+		"a": "Algorytm, który zawsze wybiera lokalnie najlepsze rozwiązanie",
+		"b": "Algorytm, który używa dużo pamięci",
+		"c": "Algorytm, który zawsze znajduje globalne optimum",
+		"d": "Algorytm, który działa tylko na dużych zbiorach danych",
+		"explanation": "Algorytm zachłanny w każdym kroku podejmuje decyzję, która wydaje się najlepsza w danym momencie, nie analizując przyszłych skutków tych wyborów."
+	},
+	"20": {
+		"question": "Co to jest paradygmat programowania obiektowego?",
+		"answer": "b",
+		"a": "Styl programowania skupiający się na funkcjach",
+		"b": "Styl programowania oparty na obiektach zawierających dane i kod",
+		"c": "Styl programowania skupiający się na logice matematycznej",
+		"d": "Styl programowania używany tylko w językach niskiego poziomu",
+		"explanation": "Programowanie obiektowe (OOP) organizuje kod wokół 'obiektów' reprezentujących dane oraz 'metod' operujących na tych danych."
+	},
+	"21": {
+		"question": "Co to jest algorytm 'dziel i zwyciężaj'?",
+		"answer": "a",
+		"a": "Technika rozwiązywania problemów przez podział na mniejsze podproblemy",
+		"b": "Algorytm używany tylko w grach strategicznych",
+		"c": "Metoda optymalizacji baz danych",
+		"d": "Technika projektowania interfejsów użytkownika",
+		"explanation": "Metoda ta polega na rozbiciu problemu na kilka mniejszych, podobnych podproblemów, aż staną się one łatwe do bezpośredniego rozwiązania."
+	},
+	"22": {
+		"question": "W którym języku programowania używa się słowa kluczowego 'import' do dołączania modułów?",
+		"answer": "c",
+		"a": "C++",
+		"b": "JavaScript",
+		"c": "Python",
+		"d": "Ruby",
+		"explanation": "W języku Python instrukcja 'import' służy do ładowania zewnętrznych modułów i bibliotek."
+	},
+	"23": {
+		"question": "W którym języku programowania używa się słowa kluczowego 'def' do definiowania funkcji?",
+		"answer": "c",
+		"a": "Java",
+		"b": "C++",
+		"c": "Ruby",
+		"d": "JavaScript",
+		"explanation": "Zarówno Python, jak i Ruby używają słowa 'def' do rozpoczynania definicji metody lub funkcji."
+	},
+	"24": {
+		"question": "Która z poniższych metod w Pythonie służy do dodawania elementu na końcu listy?",
+		"answer": "b",
+		"a": "list.add()",
+		"b": "list.append()",
+		"c": "list.insert()",
+		"d": "list.push()",
+		"explanation": "Metoda append() w Pythonie dołącza pojedynczy obiekt na koniec istniejącej listy."
+	},
+	"25": {
+		"question": "Która z poniższych funkcji w Pythonie zwraca długość sekwencji lub kolekcji?",
+		"answer": "d",
+		"a": "count()",
+		"b": "size()",
+		"c": "length()",
+		"d": "len()",
+		"explanation": "Wbudowana funkcja len() zwraca liczbę elementów w napisie, liście, słowniku lub innym kontenerze."
+	},
+	"26": {
+		"question": "Który z poniższych operatorów służy do sprawdzania, czy dwie zmienne wskazują na ten sam obiekt w pamięci?",
+		"answer": "b",
+		"a": "==",
+		"b": "is",
+		"c": "equals",
+		"d": "===",
+		"explanation": "W Pythonie operator 'is' służy do sprawdzania tożsamości obiektów, podczas gdy '==' sprawdza ich wartość."
+	},
+	"27": {
+		"question": "Co to jest destruktor w C++?",
+		"answer": "b",
+		"a": "Metoda wywoływana przy tworzeniu obiektu",
+		"b": "Metoda wywoływana przy usuwaniu obiektu",
+		"c": "Operator służący do usuwania obiektów",
+		"d": "Funkcja służąca do czyszczenia pamięci",
+		"explanation": "Destruktor to specjalna funkcja składowa klasy, która jest automatycznie wywoływana, gdy kończy się czas życia obiektu."
+	},
+	"28": {
+		"question": "Co to jest przeciążanie operatorów w C++?",
+		"answer": "c",
+		"a": "Definiowanie nowych operatorów",
+		"b": "Zmiana priorytetu operatorów",
+		"c": "Nadawanie nowego znaczenia istniejącym operatorom dla własnych typów",
+		"d": "Optymalizacja operacji na operatorach",
+		"explanation": "Przeciążanie pozwala na zdefiniowanie zachowania standardowych operatorów (np. +, -) dla klas zdefiniowanych przez użytkownika."
+	},
+	"29": {
+		"question": "Co oznacza słowo kluczowe 'final' w Javie?",
+		"answer": "d",
+		"a": "Zmienna może być zainicjalizowana tylko raz",
+		"b": "Klasa nie może być dziedziczona",
+		"c": "Metoda nie może być nadpisana",
+		"d": "Wszystkie powyższe",
+		"explanation": "Słowo 'final' służy do definiowania stałych (zmienne), uniemożliwiania polimorfizmu (metody) oraz blokowania rozszerzania klas."
+	},
+	"30": {
+		"question": "Co oznacza słowo kluczowe 'super' w Javie?",
+		"answer": "d",
+		"a": "Odnosi się do superklasy",
+		"b": "Tworzy obiekt superklasy",
+		"c": "Wywołuje konstruktor superklasy",
+		"d": "A i C są poprawne",
+		"explanation": "Słowo 'super' pozwala odwołać się do elementów klasy nadrzędnej oraz wywołać jej konstruktor."
+	},
+	"31": {
+		"question": "Która z poniższych klas w Javie służy do obsługi wyjątków związanych z operacjami wejścia/wyjścia?",
+		"answer": "c",
+		"a": "Exception",
+		"b": "RuntimeException",
+		"c": "IOException",
+		"d": "Error",
+		"explanation": "IOException to bazowa klasa wyjątków rzucanych podczas błędów przy dostępie do strumieni, plików lub gniazd sieciowych."
+	},
+	"32": {
+		"question": "Popularna magistrala USB realizuje transmisję sygnałów:",
+		"answer": "b",
+		"a": "Równoległą",
+		"b": "Szeregową",
+		"c": "Równoległo-szeregową",
+		"d": "Szeregowo-równoległą",
+		"explanation": "Nazwa USB (Universal Serial Bus) wskazuje, że dane przesyłane są szeregowo, bit po bicie przez jedną linię sygnałową."
+	},
+	"33": {
+		"question": "Procesory architektury ARM realizują listy rozkazowe:",
+		"answer": "d",
+		"a": "Aktywnie rozszerzone",
+		"b": "Rozszerzone",
+		"c": "Aktywnie zredukowane",
+		"d": "Zredukowane",
+		"explanation": "ARM to architektura typu RISC (Reduced Instruction Set Computer), czyli komputer o zredukowanej liście instrukcji."
+	},
+	"34": {
+		"question": "Litografia układu scalonego wiąże się z:",
+		"answer": "a",
+		"a": "Ilością struktur tranzystorowych",
+		"b": "wersją użytych tranzystorów MOS-FET",
+		"c": "grubością warstwy półprzewodnikowej",
+		"d": "maksymalną mocą układu",
+		"explanation": "Niższy proces litograficzny pozwala na gęstsze upakowanie tranzystorów, co przekłada się na większą ich liczbę w tej samej objętości układu."
+	},
+	"35": {
+		"question": "Dodatkowe złącza 12V w zasilaniu komputerów służą do zasilania:",
+		"answer": "d",
+		"a": "wentylatorów",
+		"b": "wyświetlaczy i diod LED",
+		"c": "pamięci Flash modułów NVMe",
+		"d": "przetwornic fazowych procesora",
+		"explanation": "Złącze 4/8-pin 12V na płycie głównej zasila sekcję zasilania (VRM) odpowiedzialną za dostarczanie energii do procesora."
+	},
+	"36": {
+		"question": "Płyty główne komputerów mają struktury:",
+		"answer": "d",
+		"a": "1-warstwowe",
+		"b": "2-warstwowe",
+		"c": "3-warstwowe",
+		"d": "3 lub więcej warstw",
+		"explanation": "Współczesne płyty główne są skomplikowanymi obwodami drukowanymi (PCB) składającymi się zazwyczaj z od 4 do nawet kilkunastu warstw."
+	},
+	"37": {
+		"question": "Układ pamięci dynamicznej DRAM wykorzystuje fizyczny efekt naładowania elektrycznego obszaru w tranzystorze MOS-FET:",
+		"answer": "c",
+		"a": "Dren-źródło",
+		"b": "Bramka-dren",
+		"c": "Bramka-źródło",
+		"d": "Źródło-masa (GND)",
+		"explanation": "Pamięć DRAM przechowuje dane w postaci ładunku w kondensatorze, gdzie bramka tranzystora pełni rolę przełącznika sterującego dostępem."
+	},
+	"38": {
+		"question": "Procedura POST występuje w komputerze w trakcie:",
+		"answer": "b",
+		"a": "wyłączania komputera",
+		"b": "uruchamiania komputera",
+		"c": "przejścia do trybu awaryjnego",
+		"d": "testowania BIOS układu graficznego",
+		"explanation": "POST (Power-On Self-Test) to autotest włączania, sprawdzający poprawność działania kluczowych podzespołów tuż po starcie."
+	},
+	"39": {
+		"question": "Pamięć RAM w komputerach jest:",
+		"answer": "b",
+		"a": "Pamięcią operacyjną",
+		"b": "Pamięcią ulotną",
+		"c": "Zespołem modułów pamięciowych",
+		"d": "Głównym blokiem architektury",
+		"explanation": "Pamięć RAM jest ulotna, co oznacza, że dane w niej zawarte zostają utracone po odłączeniu zasilania."
+	},
+	"40": {
+		"question": "Urządzenia Internetu Rzeczy muszą cechować się:",
+		"answer": "d",
+		"a": "Miniaturowymi podzespołami",
+		"b": "Użyciem sieci WiFi",
+		"c": "Zasilaniem bateryjnym",
+		"d": "Ograniczonym zestawem funkcji",
+		"explanation": "Urządzenia IoT (Internet of Things) są zazwyczaj wyspecjalizowane do wykonywania wąskiej gamy zadań (np. czujniki)."
+	},
+	"41": {
+		"question": "Układy Internetu Rzeczy zasilane napięciem 3,3V zamiast 5V mają:",
+		"answer": "c",
+		"a": "Mniejszą sprawność",
+		"b": "Dwukrotnie mniejsze wydzielanie ciepła",
+		"c": "1,5-krotnie mniejsze wydzielanie ciepła",
+		"d": "Mniejszą wrażliwość na zakłócenia",
+		"explanation": "Obniżenie napięcia zasilania redukuje pobór mocy, co przekłada się na mniejsze straty energii w postaci ciepła."
+	},
+	"42": {
+		"question": "Układy Raspberry Pi mogą wykonywać bardziej zaawansowane zadania niż Arduino z powodu:",
+		"answer": "d",
+		"a": "Wyższego napięcia zasilania",
+		"b": "Większej rozmiarowo płytki",
+		"c": "Chłodzenia aktywnego",
+		"d": "Bardziej złożonej architektury",
+		"explanation": "Raspberry Pi to mikrokomputer z procesorem aplikacyjnym zdolnym do uruchomienia systemu operacyjnego (np. Linux), podczas gdy Arduino to prosty mikrokontroler."
+	},
+	"43": {
+		"question": "Na obrazie zaprezentowano zrzut ekranu... Jakiego polecenia użyto?",
+		"answer": "a",
+		"a": "top",
+		"b": "ps",
+		"c": "htop",
+		"d": "grep",
+		"explanation": "Widok z kolumnami PID, USER, CPU i listą aktywnych procesów w czasie rzeczywistym jest typowy dla polecenia 'top'. "
+	},
+	"44": {
+		"question": "DHCP to:",
+		"answer": "a",
+		"a": "protokół komunikacyjny umożliwiający hostom uzyskanie od serwera danych konfiguracyjnych",
+		"b": "protokół komunikacyjny umożliwiający zamianę nazwy domeny na adres IP",
+		"c": "protokół komunikacyjny umożliwiający routerom ustalenie efektywnej trasy",
+		"d": "protokół komunikacyjny wykorzystywany przez bezprzewodowe punkty dostępowe",
+		"explanation": "Protokół DHCP automatycznie przydziela adresy IP, maski podsieci i bramy domyślne urządzeniom w sieci."
+	},
+	"45": {
+		"question": "AAA to skrót oznaczający:",
+		"answer": "b",
+		"a": "Autentyfikacja, autoryzacja i logowanie",
+		"b": "Uwierzytelnienie, autoryzacja, accounting (księgowanie)",
+		"c": "Proces identyfikacji użytkownika",
+		"d": "Żadne z powyższych",
+		"explanation": "W bezpieczeństwie sieciowym AAA to standardowy model kontroli zasobów: Authentication, Authorization, and Accounting."
+	},
+	"46": {
+		"question": "Na rysunku przedstawiono schemat sieci: Jaką topologię zaprezentowano?",
+		"answer": "b",
+		"a": "Szyny",
+		"b": "Gwiazdy",
+		"c": "Mesh",
+		"d": "Pierścienia",
+		"explanation": "Topologia gwiazdy polega na podłączeniu wszystkich węzłów do jednego centralnego punktu (koncentratora lub przełącznika)."
+	},
+	"47": {
+		"question": "Trasowanie to:",
+		"answer": "a",
+		"a": "proces kierowania pakietów przez różne sieci w taki sposób, aby dotarły od nadawcy do odbiorcy",
+		"b": "wyznaczanie trasy umożliwiającej pakietom dotarcie do Internetu",
+		"c": "translacja adresów IP prywatnych na publiczne",
+		"d": "mechanizm umożliwiający przełącznikom przesyłanie ramek pomiędzy fizycznymi portami",
+		"explanation": "Trasowanie (routing) to proces wybierania najlepszej drogi dla przesyłanych w sieci pakietów danych."
+	},
+	"48": {
+		"question": "Jakiego skrótu klawiszowego użyjesz, aby zamknąć okno edytora nano?",
+		"answer": "b",
+		"a": "Xu",
+		"b": "Ctrl oraz X",
+		"c": "0",
+		"d": "Ctrl oraz o",
+		"explanation": "Skrót Ctrl + X w edytorze nano inicjuje wyjście z programu."
+	},
+	"49": {
+		"question": "Jakiego polecenia użyjesz, aby natychmiast zakończyć pracę systemu Ubuntu Linux?",
+		"answer": "c",
+		"a": "shutdown",
+		"b": "shutdown - h",
+		"c": "sudo shutdown - h now",
+		"d": "sudo shutdown",
+		"explanation": "Polecenie 'sudo shutdown -h now' natychmiastowo zamyka system z poziomu administratora."
+	},
+	"50": {
+		"question": "Jakiego polecenia użyjesz, aby zmienić prawa dostępu dla pliku test z -rw-r--r-- na -rwxr-xr-x?",
+		"answer": "a",
+		"a": "chmod 755 test",
+		"b": "chown 755 test",
+		"c": "chmod 711 test",
+		"d": "chown 711 test",
+		"explanation": "Wartość 755 oznacza: 7 (rwx dla właściciela), 5 (r-x dla grupy), 5 (r-x dla pozostałych)."
+	},
+	"51": {
+		"question": "Usługa FTP wykorzystuje następujące porty (protokół TCP):",
+		"answer": "a",
+		"a": "20 i 21",
+		"b": "Tylko 20",
+		"c": "Tylko 21",
+		"d": "443",
+		"explanation": "Protokół FTP używa portu 21 do przesyłania poleceń oraz portu 20 do faktycznego przesyłania danych."
+	},
+	"52": {
+		"question": "Rysunek przedstawia:",
+		"answer": "a",
+		"a": "Kabel skrętka UTP",
+		"b": "Kabel skrętka ekranowa",
+		"c": "Kabel koncentryczny",
+		"d": "Kabel czterowłóknowy światłowodowy",
+		"explanation": "Skrętka UTP (Unshielded Twisted Pair) to najpopularniejszy kabel sieciowy, składający się z par skręconych przewodów bez dodatkowego ekranu. "
+	},
+	"53": {
+		"question": "Model tworzony przez analityków BD, opisujący projekt struktury danych BD to:",
+		"answer": "c",
+		"a": "Model logiczny",
+		"b": "Model fizyczny",
+		"c": "Model konceptualny",
+		"d": "Model architektury",
+		"explanation": "Model konceptualny to ogólny opis świata rzeczywistego w bazie danych, niezależny od konkretnego systemu zarządzania bazą (DBMS)."
+	},
+	"54": {
+		"question": "Dziedzina to pojęcie używane w projektowaniu BD, które można opisać jako:",
+		"answer": "a",
+		"a": "zbiór dopuszczalnych wartości dla jednego lub większej liczby atrybutów",
+		"b": "to część świata rzeczywistego opisanego w bazie danych",
+		"c": "to zbiór danych przechowywanych w bazie danych",
+		"d": "zbiór pojęciowy opisujący daną bazę danych",
+		"explanation": "Dziedzina (domain) definiuje typ danych oraz zakres wartości, jakie może przyjąć dany atrybut w tabeli."
+	},
+	"55": {
+		"question": "W procesie projektowania tworzone są kolejno modele:",
+		"answer": "c",
+		"a": "logiczny, konceptualny, fizyczny",
+		"b": "logiczny, fizyczny, koncepcyjny",
+		"c": "koncepcyjny, logiczny, fizyczny",
+		"d": "koncepcyjny, fizyczny, logiczny",
+		"explanation": "Standardowy proces projektowania bazy danych przebiega od abstrakcji (koncepcyjny) przez logikę po fizyczną implementację."
+	},
+	"56": {
+		"question": "Cechą danych przechowywanych w bazach danych jest:",
+		"answer": "c",
+		"a": "powtarzalność",
+		"b": "unikatowość",
+		"c": "atomowość",
+		"d": "złożoność",
+		"explanation": "Atomowość oznacza, że operacja (transakcja) jest traktowana jako jedna niepodzielna jednostka – albo udaje się w całości, albo wcale."
+	},
+	"57": {
+		"question": "Klucz obcy to:",
+		"answer": "d",
+		"a": "kolumna... wartości jednoznacznie identyfikują każdy wiersz... nie muszą być unikalne",
+		"b": "kolumna... mogą występować jako jednoznaczny identyfikator wierszy",
+		"c": "kolumna... wartości jednoznacznie identyfikują każdy wiersz... muszą być unikalne",
+		"d": "kolumna lub zbiór kolumn tabeli, które występują jako jednoznaczny identyfikator wierszy w tabeli nadrzędnej powiązanej z nią",
+		"explanation": "Klucz obcy (foreign key) służy do tworzenia relacji pomiędzy dwiema tabelami, wskazując na klucz główny innej tabeli."
+	},
+	"58": {
+		"question": "Język manipulowania danymi (DML):",
+		"answer": "a",
+		"a": "pozwala na pobieranie i modyfikowanie danych. Zawiera instrukcje, m.in. DELETE",
+		"b": "pozwala administratorowi... opisywać i nazywać encje",
+		"c": "pozwala operować na strukturach",
+		"d": "dostarcza proceduralnych narzędzi programistycznych",
+		"explanation": "DML (Data Manipulation Language) to podzbiór SQL służący do pracy z danymi (SELECT, INSERT, UPDATE, DELETE)."
+	},
+	"59": {
+		"question": "Wskaż polecenie (instrukcję), która poprawnie doprowadzi do utworzenia tabeli:",
+		"answer": "d",
+		"a": "create table A (X integer, not null, y date)",
+		"b": "create table (X varchar(30) primary key, y real)",
+		"c": "create table A (X primary key, y integer)",
+		"d": "create table A (X integer primary key, y integer not null)",
+		"explanation": "Poprawna składnia SQL wymaga nazwy tabeli, nazwy kolumny, typu danych i ewentualnych ograniczeń (constraints)."
+	},
+	"60": {
+		"question": "Cecha transakcji polegająca na tym, że wykonywane są wszystkie operacje albo żadna, nosi nazwę:",
+		"answer": "b",
+		"a": "trwałość",
+		"b": "atomowość",
+		"c": "spójność",
+		"d": "jednorodność",
+		"explanation": "Jest to definicja atomowości w modelu ACID (Atomicity, Consistency, Isolation, Durability)."
+	},
+	"61": {
+		"question": "Wyzwalacz (ang. Trigger):",
+		"answer": "a",
+		"a": "automatycznie uruchamia dla danej tabeli dedykowaną dla niej procedurę obsługującą operację modyfikacji danych",
+		"b": "zawiera procedurę sprawdzającą poprawność modyfikacji danych",
+		"c": "jest funkcją, która może zapewnić poprawność modyfikacji danych dla kilku tabel",
+		"d": "zawiera procedurę poprawiającą błędy danych",
+		"explanation": "Wyzwalacz to procedura składowana uruchamiana automatycznie w odpowiedzi na określone zdarzenie w bazie danych."
+	},
+	"62": {
+		"question": "Aby można było skorzystać z funkcji agregujących, w zapytaniu należy:",
+		"answer": "b",
+		"a": "utworzyć parametr",
+		"b": "użyć grupowania",
+		"c": "utworzyć pole wyliczane",
+		"d": "użyć klauzuli HAVING",
+		"explanation": "Funkcje agregujące (SUM, AVG, COUNT) są zazwyczaj używane razem z klauzulą GROUP BY."
+	},
+	"63": {
+		"question": "Jakiej instrukcji używamy, aby usunąć tabelę z bazy danych SQL?",
+		"answer": "c",
+		"a": "DELETE",
+		"b": "DEL",
+		"c": "DROP",
+		"d": "REMOVE",
+		"explanation": "Instrukcja DROP TABLE trwale usuwa tabelę wraz z jej strukturą i wszystkimi danymi."
+	},
+	"64": {
+		"question": "Jakiego polecenia używamy do wykonywania zapytania w SQL?",
+		"answer": "b",
+		"a": "USE",
+		"b": "SELECT",
+		"c": "QUERY",
+		"d": "CHOSE",
+		"explanation": "SELECT jest podstawowym słowem kluczowym służącym do pobierania (wybierania) danych z bazy."
+	},
+	"65": {
+		"question": "Czym jest sztuczna inteligencja?",
+		"answer": "b",
+		"a": "Technologią programowania",
+		"b": "Symulacją ludzkiej inteligencji w komputerach",
+		"c": "Użyciem komputerów do przyspieszania obliczeń",
+		"d": "Nowym rodzajem oprogramowania",
+		"explanation": "Sztuczna inteligencja (AI) dąży do tworzenia systemów zdolnych do wykonywania zadań wymagających inteligentnego zachowania."
+	},
+	"66": {
+		"question": "Co oznacza skrót ML w sztucznej inteligencji?",
+		"answer": "a",
+		"a": "Machine Learning",
+		"b": "Manual Logic",
+		"c": "Multi Layer",
+		"d": "Main Library",
+		"explanation": "ML to Machine Learning, czyli uczenie maszynowe – dziedzina AI skupiona na algorytmach uczących się na podstawie danych."
+	},
+	"67": {
+		"question": "Jakie z poniższych zadań najczęściej wykonują systemy sztucznej inteligencji?",
+		"answer": "b",
+		"a": "Rozwiązywanie problemów matematycznych",
+		"b": "Uczenie się na podstawie danych",
+		"c": "Przechowywanie informacji",
+		"d": "Odtwarzanie wideo",
+		"explanation": "Fundamentem nowoczesnej AI jest zdolność systemów do samodzielnego rozpoznawania wzorców i uczenia się z przykładów."
+	},
+	"68": {
+		"question": "Czym jest sztuczna sieć neuronowa?",
+		"answer": "b",
+		"a": "Rodzajem bazy danych",
+		"b": "Modelem inspirowanym strukturą i działaniem mózgu",
+		"c": "Programem do obliczeń matematycznych",
+		"d": "Procesem programowania gier",
+		"explanation": "Sztuczne sieci neuronowe to systemy obliczeniowe, których budowa naśladuje sieć neuronów biologicznych."
+	},
+	"69": {
+		"question": "Co oznacza termin „big data” w kontekście sztucznej inteligencji?",
+		"answer": "b",
+		"a": "Przechowywanie informacji na małej przestrzeni",
+		"b": "Eksploatacja i analiza dużych zbiorów danych",
+		"c": "Reguły przetwarzania danych",
+		"d": "Stosowanie języków programowania",
+		"explanation": "Big Data to termin określający zbiory danych o tak dużej objętości i zmienności, że wymagają specjalnych metod analizy."
+	},
+	"70": {
+		"question": "Czym jest rozpoznawanie obrazów?",
+		"answer": "b",
+		"a": "Procesem tworzenia grafiki komputerowej",
+		"b": "Technologią umożliwiającą komputerom identyfikację obiektów na zdjęciach lub filmach",
+		"c": "Metodą rysowania obrazów przez maszyny",
+		"d": "Programem do edycji zdjęć",
+		"explanation": "Rozpoznawanie obrazów (image recognition) pozwala maszynom 'zrozumieć' treść wizualną i zidentyfikować na niej konkretne elementy."
+	},
+	"71": {
+		"question": "Czym jest chatbot?",
+		"answer": "b",
+		"a": "Programem do edycji tekstu",
+		"b": "Systemem AI symulującym rozmowę z użytkownikiem za pomocą tekstu i głosu",
+		"c": "Rodzajem gry komputerowej",
+		"d": "Oprogramowaniem do zarządzania danymi",
+		"explanation": "Chatboty to aplikacje wykorzystujące NLP do interakcji z ludźmi w języku naturalnym."
+	},
+	"72": {
+		"question": "Jakie są zastosowania sztucznej inteligencji w autonomicznych pojazdach?",
+		"answer": "b",
+		"a": "Wyłącznie w systemach rozrywkowych",
+		"b": "W rozpoznawaniu otoczenia, planowaniu trasy i podejmowaniu decyzji w czasie rzeczywistym",
+		"c": "Tylko w systemach nawigacyjnych",
+		"d": "W tworzeniu aplikacji mobilnych",
+		"explanation": "Pojazdy autonomiczne używają AI do fuzji danych z czujników (lidar, kamery) i sterowania pojazdem w dynamicznym środowisku."
+	},
+	"73": {
+		"question": "Jakie są możliwości zastosowania sztucznej inteligencji w edukacji?",
+		"answer": "b",
+		"a": "Tylko w nauczaniu przedmiotów ścisłych",
+		"b": "Personalizacja nauczania, analiza postępów uczniów oraz wsparcie nauczycieli",
+		"c": "Wyłącznie w tworzeniu materiałów dydaktycznych",
+		"d": "Tylko w administracji szkolnej",
+		"explanation": "AI pozwala na dostosowanie poziomu trudności i metod nauczania do indywidualnych potrzeb każdego ucznia."
+	},
+	"74": {
+		"question": "Co oznacza skrót NLP w kontekście sztucznej inteligencji?",
+		"answer": "b",
+		"a": "Network Learning Processing",
+		"b": "Natural Language Processing",
+		"c": "Numerical Learning Programming",
+		"d": "Neural Language Prediction",
+		"explanation": "NLP (Przetwarzanie Języka Naturalnego) to dział AI zajmujący się interakcją maszyn z językiem ludzkim."
+	},
+	"75": {
+		"question": "Jak sztuczna inteligencja wpływa na rynek pracy?",
+		"answer": "b",
+		"a": "Nie ma wpływu",
+		"b": "Może prowadzić do automatyzacji niektórych zawodów oraz stworzyć nowe możliwości zatrudnienia",
+		"c": "Zawsze prowadzi do utraty miejsc pracy",
+		"d": "Jest korzystna tylko dla dużych firm",
+		"explanation": "AI przekształca rynek pracy poprzez automatyzację powtarzalnych zadań, wymuszając zmianę kwalifikacji i tworząc nowe specjalizacje."
+	}
+}

@@ -1,0 +1,677 @@
+{
+  "1": {
+    "question": "Czego dotyczy informatyka?",
+    "answer": "c",
+    "a": "oprogramowania, technologii informatycznych i danych (informacji)",
+    "b": "technologii informatycznych i danych (informacji)",
+    "c": "oprogramowania, technologii informatycznych, danych (informacji), sprzętu komputerowego i człowieka",
+    "d": "oprogramowania, technologii informatycznych, danych (informacji) i sprzętu komputerowego",
+    "explanation": "Informatyka to szeroka dziedzina zajmująca się nie tylko technologią i danymi, ale także interakcją z człowiekiem oraz sprzętem."
+  },
+  "2": {
+    "question": "Co oznacza akronim CSV (comma-separated values)?",
+    "answer": "c",
+    "a": "format przechowywania danych w plikach YAML",
+    "b": "format przechowywania danych w plikach binarnych",
+    "c": "format przechowywania danych w plikach tekstowych",
+    "d": "format przechowywania danych w plikach XML",
+    "explanation": "CSV to prosty format tekstowy służący do przechowywania danych tabelarycznych, gdzie wartości rozdzielone są przecinkami (lub innymi separatorami)."
+  },
+  "3": {
+    "question": "Co oznacza akronim AJAX (Asynchronous JavaScript and XML)?",
+    "answer": "c",
+    "a": "technologia projektowania aplikacji internetowych, w której interakcja użytkownika z serwerem HTTP odbywa się z koniecznością przeładowywania całego dokumentu HTML",
+    "b": "technologia projektowania aplikacji internetowych, w której interakcja użytkownika z aplikacją odbywa się bez udziału serwera HTTP",
+    "c": "technologia projektowania aplikacji internetowych, w której interakcja użytkownika z serwerem HTTP odbywa się bez przeładowywania strony internetowej",
+    "d": "technologia projektowania aplikacji internetowych, w której interakcja użytkownika jest realizowana z wykorzystanie języka Java Script i nie wymaga komunikowania się z serwerem HTTP",
+    "explanation": "AJAX umożliwia asynchroniczną komunikację z serwerem, co pozwala na aktualizację części strony bez jej całkowitego odświeżania."
+  },
+  "4": {
+    "question": "Co to jest JavaScript Object Notation (JSON)?",
+    "answer": "a",
+    "a": "lekki format wymiany danych komputerowych",
+    "b": "biblioteka języka Java Script",
+    "c": "framework języka Java Script",
+    "d": "format wizualizacji kodu języka Java Script",
+    "explanation": "JSON to lekki, tekstowy format wymiany danych, który jest łatwy do odczytu dla ludzi i przetwarzania dla maszyn."
+  },
+  "5": {
+    "question": "Ile maksymalnie obrazów cyfrowych 2 x 3 cale o rozdzielczości 100ppi zapisanych bez kompresji z 8 bitową głębią można zarchiwizować na nośniku pamięci o pojemności 700 MB?",
+    "answer": "c",
+    "a": "2000 obrazów",
+    "b": "6000 obrazów",
+    "c": "10000 obrazów",
+    "d": "14000 obrazów",
+    "explanation": "Obraz ma 200x300 pikseli = 60 000 pikseli. Przy 8 bitach (1 bajt) na piksel, obraz zajmuje 60 000 bajtów. 700 MB / 60 000 bajtów ≈ 12 233 obrazy, więc 10 000 jest poprawną odpowiedzią mieszczącą się w limicie."
+  },
+  "6": {
+    "question": "Jakie wymiary (w centymetrach) ma obraz Full HD o rozdzielczości 300 PPI, który możemy wydrukować bez utraty jakość obrazu?",
+    "answer": "d",
+    "a": "19,2 cm x 10,8 cm",
+    "b": "6,4 cm x 3,6 cm",
+    "c": "12,8 cm x 7,2cm",
+    "d": "16,3 cm x 9,1 cm",
+    "explanation": "Full HD to 1920x1080 pikseli. 1920/300 ≈ 6,4 cala, 1080/300 = 3,6 cala. 6,4 * 2,54 ≈ 16,3 cm, 3,6 * 2,54 ≈ 9,1 cm."
+  },
+  "7": {
+    "question": "Który z histogramów przedstawia obraz prześwietlony?",
+    "answer": "b",
+    "a": "histogram skupiony po lewej stronie",
+    "b": "histogram skupiony po prawej stronie",
+    "c": "histogram równomiernie rozłożony",
+    "d": "histogram z dużą ilością cieni",
+    "explanation": "Histogram obrazu prześwietlonego jest przesunięty w stronę prawą, co wskazuje na przewagę jasnych i białych tonów."
+  },
+  "8": {
+    "question": "Licencja CC-BY-NC oznacza, że zdjęcia pobrane z internetu można publikować:",
+    "answer": "d",
+    "a": "bez podawania danych autora z możliwością czerpania zysków",
+    "b": "bez podawania danych autora bez możliwości czerpania zysków",
+    "c": "pod warunkiem podania danych autora z możliwością czerpania zysków",
+    "d": "pod warunkiem podania danych autora bez możliwości czerpania zysków",
+    "explanation": "CC-BY-NC wymaga uznania autorstwa (BY) i zabrania komercyjnego wykorzystania (NC)."
+  },
+  "9": {
+    "question": "Zgodnie z postanowieniami licencji CC BY-NC-ND 3.0 PL utwór można:",
+    "answer": "d",
+    "a": "wykorzystać w prezentacji komercyjnej",
+    "b": "zmodyfikować i wykorzystać w prezentacji",
+    "c": "odsprzedać, po wykorzystaniu w prezentacji",
+    "d": "wykorzystać w prezentacji, ale nie można modyfikować",
+    "explanation": "Licencja ND (No Derivatives) oznacza brak zgody na tworzenie utworów zależnych i modyfikację oryginału."
+  },
+  "10": {
+    "question": "Barwny oryginał na ilustracji, służy do przygotowania profili:",
+    "answer": "b",
+    "a": "DTP",
+    "b": "ICC",
+    "c": "OCR",
+    "d": "RIP",
+    "explanation": "Wzorce barwne (takie jak IT8.7/2) są używane do tworzenia profili kolorystycznych ICC w celu kalibracji urządzeń."
+  },
+  "11": {
+    "question": "OCR umożliwia:",
+    "answer": "d",
+    "a": "Pozbycie się szumów na skanowanym materiale",
+    "b": "Powiększenie rozdzielczości skanowanego materiału",
+    "c": "Zmniejszenie wielkości pliku zawierającego zeskanowany materiał",
+    "d": "Utworzenie edytowalnego dokumentu tekstowego",
+    "explanation": "OCR (Optical Character Recognition) to technologia rozpoznawania znaków w obrazie, umożliwiająca edycję tekstu ze skanów."
+  },
+  "12": {
+    "question": "Który z formatów graficznych umożliwia wybór kodowania obrazu z kompresją stratną lub bezstratną?",
+    "answer": "c",
+    "a": "BMP",
+    "b": "JPEG",
+    "c": "TIFF",
+    "d": "PNG",
+    "explanation": "Format TIFF jest bardzo wszechstronny i pozwala na zapis danych zarówno bez kompresji, z kompresją bezstratną (np. LZW), jak i stratną (np. JPEG)."
+  },
+  "13": {
+    "question": "Znaczniki <header>, <article>, <section>, <footer> są charakterystyczne dla języka:",
+    "answer": "d",
+    "a": "XHTML 1.1",
+    "b": "HTML 4.01 Strict",
+    "c": "HTML 4.01 Transitional",
+    "d": "HTML 5",
+    "explanation": "Są to znaczniki semantyczne wprowadzone w standardzie HTML5 w celu lepszego opisu struktury dokumentu."
+  },
+  "14": {
+    "question": "W stylach CSS, aby ustalić styl linii obramowania jako linię kreskową, należy zastosować wartość:",
+    "answer": "d",
+    "a": "dolid",
+    "b": "dotted",
+    "c": "groove",
+    "d": "dashed",
+    "explanation": "Wartość 'dashed' w CSS odpowiada za linię przerywaną (kreskową), podczas gdy 'dotted' to linia kropkowana."
+  },
+  "15": {
+    "question": "Co przedstawia obraz SVG określony kodem? <rect width='100' height='100' fill='#ff0000'>",
+    "answer": "d",
+    "a": "Kwadrat o boku 100 pikseli z niebieskim wypełnieniem",
+    "b": "Prostokąt o wymiarach 200 x 150 pikseli z niebieskim wypełnieniem",
+    "c": "Prostokąt o wymiarach 200 x 150 pikseli z czerwonym wypełnieniem",
+    "d": "Kwadrat o boku 100 pikseli z czerwonym wypełnieniem",
+    "explanation": "Kod definiuje prostokąt (rect) o równych bokach (100x100), co daje kwadrat, a kolor #ff0000 to czysta czerwień."
+  },
+  "16": {
+    "question": "Co oznacza ostatnia litera w skrócie PPI?",
+    "answer": "b",
+    "a": "centymetry",
+    "b": "cale",
+    "c": "milimetry",
+    "d": "piksele",
+    "explanation": "PPI to Pixels Per Inch, co po polsku oznacza piksele na cal."
+  },
+  "17": {
+    "question": "Co oznacza skrót 'IDE' w kontekście programowania?",
+    "answer": "a",
+    "a": "Integrated Development Environment",
+    "b": "Interface Design Element",
+    "c": "Intelligent Data Extraction",
+    "d": "Interactive Debug Extension",
+    "explanation": "IDE to Zintegrowane Środowisko Programistyczne, czyli aplikacja dostarczająca narzędzia niezbędne do tworzenia oprogramowania."
+  },
+  "18": {
+    "question": "Co to jest debugowanie?",
+    "answer": "b",
+    "a": "Proces kompilacji kodu",
+    "b": "Proces identyfikowania i usuwania błędów w kodzie",
+    "c": "Metoda optymalizacji algorytmów",
+    "d": "Technika zabezpieczania kodu przed wirusami",
+    "explanation": "Debugowanie (od ang. bug - pluskwa, błąd) to systematyczne wyszukiwanie i naprawianie błędów w programie."
+  },
+  "19": {
+    "question": "Co oznacza skrót 'SQL' w kontekście baz danych?",
+    "answer": "c",
+    "a": "Simple Query Language",
+    "b": "Structured Question Language",
+    "c": "Structured Query Language",
+    "d": "System Quality Language",
+    "explanation": "SQL to Strukturalny Język Zapytań, standardowy język używany do komunikacji z relacyjnymi bazami danych."
+  },
+  "20": {
+    "question": "Co to jest przeciążanie funkcji w programowaniu?",
+    "answer": "a",
+    "a": "Definiowanie funkcji o tej samej nazwie, ale różnych parametrach",
+    "b": "Wywoływanie funkcji zbyt wiele razy",
+    "c": "Definiowanie funkcji wewnątrz innej funkcji",
+    "d": "Optymalizacja funkcji dla lepszej wydajności",
+    "explanation": "Przeciążanie (overloading) pozwala na posiadanie wielu funkcji o tej samej nazwie, o ile różnią się one liczbą lub typem argumentów."
+  },
+  "21": {
+    "question": "Co to jest polimorfizm w programowaniu obiektowym?",
+    "answer": "c",
+    "a": "Tworzenie wielu klas",
+    "b": "Dziedziczenie cech od klasy bazowej",
+    "c": "Możliwość używania obiektów różnych typów poprzez ten sam interfejs",
+    "d": "Hermetyzacja danych w klasie",
+    "explanation": "Polimorfizm pozwala na traktowanie obiektów różnych klas pochodnych w jednolity sposób poprzez ich wspólny interfejs lub klasę bazową."
+  },
+  "22": {
+    "question": "W którym z poniższych języków programowania nie ma potrzeby deklarowania typu zmiennych?",
+    "answer": "c",
+    "a": "Java",
+    "b": "C",
+    "c": "JavaScript",
+    "d": "C++",
+    "explanation": "JavaScript jest językiem dynamicznie typowanym, co oznacza, że typ zmiennej jest określany w czasie wykonania, a nie deklaracji."
+  },
+  "23": {
+    "question": "Co oznacza w Pythonie operator **?",
+    "answer": "b",
+    "a": "Mnożenie",
+    "b": "Potęgowanie",
+    "c": "Dzielenie całkowite",
+    "d": "Koniunkcja logiczna",
+    "explanation": "W języku Python podwójna gwiazdka (**) jest używana jako operator potęgowania."
+  },
+  "24": {
+    "question": "Co robi funkcja range(0, 5) w Pythonie?",
+    "answer": "b",
+    "a": "Generuje liczby od 0 do 5 włącznie",
+    "b": "Generuje liczby od 0 do 4 włącznie",
+    "c": "Generuje liczby od 1 do 5 włącznie",
+    "d": "Generuje 5 losowych liczb",
+    "explanation": "Funkcja range(start, stop) generuje sekwencję liczb od 'start' do 'stop-1'."
+  },
+  "25": {
+    "question": "Co robi funkcja type() w Pythonie?",
+    "answer": "c",
+    "a": "Konwertuje obiekt na inny typ",
+    "b": "Sprawdza, czy obiekt jest typem",
+    "c": "Zwraca typ obiektu",
+    "d": "Tworzy nowy typ obiektu",
+    "explanation": "Funkcja type() służy do sprawdzania, jakiej klasy (typu) jest dany obiekt w Pythonie."
+  },
+  "26": {
+    "question": "Który operator w C++ służy do oznaczania dziedziczenia?",
+    "answer": "a",
+    "a": ":",
+    "b": "::",
+    "c": "->",
+    "d": "extends",
+    "explanation": "W C++ dziedziczenie zapisuje się za pomocą dwukropka po nazwie klasy (np. class A : public B)."
+  },
+  "27": {
+    "question": "Która z poniższych nie jest poprawną specyfikacją dostępu w C++?",
+    "answer": "d",
+    "a": "public",
+    "b": "private",
+    "c": "protected",
+    "d": "internal",
+    "explanation": "Specyfikatory dostępu w C++ to public, private i protected. 'internal' występuje np. w języku C#."
+  },
+  "28": {
+    "question": "Co to jest JVM w kontekście Javy?",
+    "answer": "a",
+    "a": "Java Virtual Machine",
+    "b": "Java Variable Method",
+    "c": "Just Valid Memory",
+    "d": "Java Visual Monitor",
+    "explanation": "JVM to Wirtualna Maszyna Javy, która umożliwia uruchamianie programów skompilowanych do bajtkodu Javy na różnych platformach."
+  },
+  "29": {
+    "question": "Która z poniższych metod nie jest częścią interfejsu java.util.List?",
+    "answer": "c",
+    "a": "add()",
+    "b": "remove()",
+    "c": "push()",
+    "d": "clear()",
+    "explanation": "Metoda push() jest charakterystyczna dla stosu lub kolejki (np. Stack, Deque), a nie dla standardowego interfejsu List."
+  },
+  "30": {
+    "question": "Co to jest garbage collection w Javie?",
+    "answer": "a",
+    "a": "Mechanizm automatycznego zarządzania pamięcią",
+    "b": "Proces usuwania nieużywanych plików",
+    "c": "Metoda optymalizacji kodu",
+    "d": "Technika kompresji danych",
+    "explanation": "Garbage Collector (odśmiecanie pamięci) automatycznie identyfikuje i usuwa obiekty, do których nie ma już odwołań w programie."
+  },
+  "31": {
+    "question": "Która z poniższych nie jest poprawnym modyfikatorem dostępu w Javie?",
+    "answer": "d",
+    "a": "public",
+    "b": "private",
+    "c": "protected",
+    "d": "friend",
+    "explanation": "W Javie istnieją modyfikatory public, private, protected oraz domyślny (package-private). 'friend' jest używany w C++."
+  },
+  "32": {
+    "question": "Pierwszy komputer osobisty powstał w 1981 r. i zawierał procesor:",
+    "answer": "c",
+    "a": "Intel 8-bitowy",
+    "b": "AMD 8-bitowy",
+    "c": "Intel 16-bitowy",
+    "d": "AMD 16-bitowy",
+    "explanation": "IBM PC (1981) używał procesora Intel 8088, który posiadał 16-bitową architekturę wewnętrzną."
+  },
+  "33": {
+    "question": "Procesor komputera jest 64-bitowy, jeżeli jego:",
+    "answer": "d",
+    "a": "Magistrala danych jest 64-bitowa",
+    "b": "Magistrala adresowa jest 64-bitowa",
+    "c": "Magistrala sterowania jest 64-bitowa",
+    "d": "Rejestry ogólnego przeznaczenia są 64-bitowe",
+    "explanation": "O architekturze procesora (np. 64-bitowej) decyduje rozmiar jego głównych rejestrów i szerokość danych, na których może operować w jednej instrukcji."
+  },
+  "34": {
+    "question": "Zasilacze współczesnych komputerów są typu:",
+    "answer": "a",
+    "a": "przetwornicowego",
+    "b": "liniowego",
+    "c": "klasycznego",
+    "d": "przerzutnikowego",
+    "explanation": "Współczesne zasilacze komputerowe to zasilacze impulsowe (przetwornicowe), które są lżejsze i sprawniejsze od liniowych."
+  },
+  "35": {
+    "question": "Magistrala systemowa komputera nie zawiera podmagistrali:",
+    "answer": "a",
+    "a": "Kompilacji",
+    "b": "Sterowania",
+    "c": "Adresowej",
+    "d": "Danych",
+    "explanation": "Tradycyjna magistrala systemowa składa się z magistrali danych, adresowej i sterującej. 'Kompilacja' to proces programistyczny."
+  },
+  "36": {
+    "question": "Współczesne zasilacze komputerowe nie cechują się:",
+    "answer": "d",
+    "a": "Małym poziomem zakłóceń elektromagnetycznych",
+    "b": "Dużą stabilnością napięć wyjściowych",
+    "c": "Dużą sprawnością energetyczną",
+    "d": "Mocami zasilania przekraczającymi nawet 1kW",
+    "explanation": "Wszystkie wymienione cechy są pożądane, jednak moc powyżej 1kW nie jest cechą każdego 'współczesnego' zasilacza, a jedynie modeli wysokiej klasy."
+  },
+  "37": {
+    "question": "Cyfrowy układ synchroniczny cechuje istnienie:",
+    "answer": "b",
+    "a": "Synchronizacji wewnątrz-układowej",
+    "b": "Zegara taktującego",
+    "c": "Układu zgodności z napięciem zasilania",
+    "d": "Układu zgodności z częstotliwością sieci zasilającej",
+    "explanation": "Układy synchroniczne wykorzystują sygnał zegarowy (clock) do synchronizacji operacji we wszystkich swoich częściach."
+  },
+  "38": {
+    "question": "Pamięć masowa w komputerze ma cechę zapamiętywania:",
+    "answer": "a",
+    "a": "danych przez długi czas",
+    "b": "danych przez krótki czas",
+    "c": "dużej (masowej) ilości danych",
+    "d": "dużych bajtowo plików",
+    "explanation": "Pamięć masowa (np. HDD, SSD) służy do trwałego (nieulotnego) przechowywania danych po wyłączeniu zasilania."
+  },
+  "39": {
+    "question": "BIOS w komputerze jest:",
+    "answer": "c",
+    "a": "Sprzętem",
+    "b": "Programem",
+    "c": "Sprzętem oraz programem",
+    "d": "Programem uruchomieniowym",
+    "explanation": "BIOS (lub UEFI) to firmware – oprogramowanie wbudowane na stałe w układ scalony na płycie głównej."
+  },
+  "40": {
+    "question": "Moc cieplna wydzielana w dowolnym podzespole jest:",
+    "answer": "b",
+    "a": "Proporcjonalna do napięcia zasilania",
+    "b": "Proporcjonalna do kwadratu napięcia zasilania",
+    "c": "Odwrotnie proporcjonalna do napięcia zasilania",
+    "d": "Odwrotnie proporcjonalna do kwadratu napięcia zasilania",
+    "explanation": "Zgodnie z prawem Joule'a-Lenza, moc wydzielana na oporze jest proporcjonalna do kwadratu napięcia (P = U²/R)."
+  },
+  "41": {
+    "question": "Magistrale urządzeń Internetu Rzeczy pracują głownie jako magistrale:",
+    "answer": "a",
+    "a": "Szeregowe",
+    "b": "Równoległe",
+    "c": "Mieszane",
+    "d": "Hybrydowe",
+    "explanation": "Urządzenia IoT najczęściej wykorzystują magistrale szeregowe (np. I2C, SPI, UART) ze względu na oszczędność miejsca i liczby wyprowadzeń."
+  },
+  "42": {
+    "question": "Układu rodziny Arduino są mikrokontrolerami, gdyż:",
+    "answer": "a",
+    "a": "Obsługują mikroinstrukcje",
+    "b": "Kontrolują układy miniaturowych rozmiarów",
+    "c": "Nie mają wyjścia graficznego wysokiej rozdzielczości",
+    "d": "Mają miniaturowe rozmiary",
+    "explanation": "Mikrokontrolery to kompletne systemy komputerowe na jednym układzie scalonym, wykonujące programy instrukcja po instrukcji."
+  },
+  "43": {
+    "question": "Na obrazie zaprezentowano zrzut ekranu... Jakiego polecenia użyto?",
+    "answer": "a",
+    "a": "top",
+    "b": "ps",
+    "c": "htop",
+    "d": "grep",
+    "explanation": "Zrzut przedstawia tabelę z procesami, zużyciem CPU/MEM i czasem pracy, co jest charakterystyczne dla polecenia systemowego 'top'."
+  },
+  "44": {
+    "question": "DHCP to:",
+    "answer": "a",
+    "a": "protokół komunikacyjny umożliwiający hostom uzyskanie od serwera danych konfiguracyjnych",
+    "b": "protokół komunikacyjny umożliwiający hostom uzyskanie od serwera danych umożliwiający zamianę nazwy domeny na adres IP",
+    "c": "protokół komunikacyjny umożliwiający routerom ustalenie efektywnej trasy",
+    "d": "protokół komunikacyjny wykorzystywany przez bezprzewodowe punkty dostępowe",
+    "explanation": "Dynamic Host Configuration Protocol służy do automatycznego przydzielania adresów IP i konfiguracji sieciowej urządzeniom."
+  },
+  "45": {
+    "question": "AAA to skrót oznaczający:",
+    "answer": "b",
+    "a": "Autentyfikacja, autoryzacja i logowanie",
+    "b": "Uwierzytelnienie, autoryzacja, accounting (księgowanie)",
+    "c": "Proces identyfikacji użytkownika",
+    "d": "Żadne z powyższych",
+    "explanation": "AAA to model bezpieczeństwa sieciowego: Authentication (Uwierzytelnianie), Authorization (Uprawnienia) i Accounting (Rozliczanie/Logowanie)."
+  },
+  "46": {
+    "question": "Na rysunku przedstawiono schemat sieci. Jaką topologię zaprezentowano?",
+    "answer": "b",
+    "a": "Szyny",
+    "b": "Gwiazdy",
+    "c": "Mesh",
+    "d": "Pierścienia",
+    "explanation": "Schemat pokazuje urządzenia podłączone do centralnego punktu (switcha/routera), co jest definicją topologii gwiazdy."
+  },
+  "47": {
+    "question": "Trasowanie to:",
+    "answer": "a",
+    "a": "proces kierowania pakietów przez różne sieci w taki sposób, aby dotarły od nadawcy do odbiorcy",
+    "b": "wyznaczanie trasy umożliwiającej pakietom dotarcie do Internetu",
+    "c": "translacja adresów IP prywatnych na publiczne",
+    "d": "mechanizm umożliwiający przełącznikom przesyłanie ramek pomiędzy fizycznymi portami urządzenia",
+    "explanation": "Trasowanie (routing) to operacja wyboru optymalnej drogi dla pakietu danych w sieciach rozległych."
+  },
+  "48": {
+    "question": "Na rysunku zaprezentowano zrzut ekranu – edytor teksu nano. Jakiego skrótu klawiszowego użyjesz, aby zamknąć okno edytora?",
+    "answer": "b",
+    "a": "Xu",
+    "b": "Ctrl oraz X",
+    "c": "O",
+    "d": "Ctrl oraz o",
+    "explanation": "W dolnym pasku nano widoczny jest skrót '^X Exit', co oznacza kombinację klawiszy Ctrl + X."
+  },
+  "49": {
+    "question": "Jakiego poleceni użyjesz, aby natychmiast zakończyć pracę systemu Ubuntu Linux?",
+    "answer": "c",
+    "a": "shutdown",
+    "b": "shutdown -h",
+    "c": "sudo shutdown -h now",
+    "d": "sudo shutdown",
+    "explanation": "Polecenie 'shutdown -h now' z uprawnieniami root (sudo) wymusza natychmiastowe zatrzymanie (halt) systemu."
+  },
+  "50": {
+    "question": "Jakiego polecenia użyjesz, aby zmienić prawa dostępu dla pliku test?",
+    "answer": "a",
+    "a": "chmod 755 test",
+    "b": "chown 755 test",
+    "c": "chmod 711 test",
+    "d": "chown 711 test",
+    "explanation": "Zmiana z -rw-r--r-- na -rwxr-xr-x odpowiada nadaniu praw 755 (odczyt/zapis/wykonanie dla właściciela, odczyt/wykonanie dla reszty)."
+  },
+  "51": {
+    "question": "Usługa FTP wykorzystuje następujące porty (protokół TCP):",
+    "answer": "a",
+    "a": "20 i 21",
+    "b": "Tylko 20",
+    "c": "Tylko 21",
+    "d": "443",
+    "explanation": "FTP standardowo używa portu 21 do sterowania sesją oraz portu 20 do przesyłania danych."
+  },
+  "52": {
+    "question": "Rysunek przedstawia:",
+    "answer": "a",
+    "a": "Kabel skrętka UTP",
+    "b": "Kabel skrętka ekranowa",
+    "c": "Kabel koncentryczny",
+    "d": "Kabel czterowłóknowy światłowodowy",
+    "explanation": "Na rysunku widoczne są cztery pary skręconych przewodów bez metalowej folii ekranującej, co jest charakterystyczne dla skrętki nieekranowanej (UTP)."
+  },
+  "53": {
+    "question": "Model tworzony przez analityków BD, opisujący projekt struktury danych BD to:",
+    "answer": "c",
+    "a": "Model logiczny",
+    "b": "Model fizyczny",
+    "c": "Model konceptualny",
+    "d": "Model architektury",
+    "explanation": "Model konceptualny (pojęciowy) to pierwszy etap projektowania bazy, skupiający się na semantyce danych, a nie ich technicznej implementacji."
+  },
+  "54": {
+    "question": "Dziedzina to pojęcie używane w projektowaniu BD, które można opisać jako:",
+    "answer": "a",
+    "a": "zbiór dopuszczalnych wartości dla jednego lub większej liczby atrybutów",
+    "b": "to część świata rzeczywistego opisanego w bazie danych",
+    "c": "to zbiór danych przechowywanych w bazie danych",
+    "d": "zbiór pojęciowy opisujący daną bazę danych",
+    "explanation": "Dziedzina określa typ danych oraz ograniczenia wartości, jakie może przyjąć dana kolumna (atrybut) w tabeli."
+  },
+  "55": {
+    "question": "W procesie projektowania tworzone są kolejno modele:",
+    "answer": "d",
+    "a": "logiczny, konceptualny, fizyczny",
+    "b": "logiczny, fizyczny, koncepcyjny",
+    "c": "koncepcyjny, logiczny, fizyczny",
+    "d": "koncepcyjny, fizyczny, logiczny",
+    "explanation": "Standardowo projektuje się najpierw model koncepcyjny, następnie fizyczny (specyficzny dla silnika) i logiczny (lub logiczny przed fizycznym w zależności od metodologii)."
+  },
+  "56": {
+    "question": "Cechą danych przechowywanych w bazach danych jest:",
+    "answer": "b",
+    "a": "powtarzalność",
+    "b": "unikatowość",
+    "c": "atomowość",
+    "d": "złożoność",
+    "explanation": "Unikatowość (szczególnie w odniesieniu do kluczy głównych) zapewnia, że każdy rekord w bazie jest unikalny i identyfikowalny."
+  },
+  "57": {
+    "question": "Klucz obcy to:",
+    "answer": "d",
+    "a": "kolumna lub zbiór kolumn tabeli, w których wartości jednoznacznie identyfikują każdy wiersz w tabeli i te wartości nie muszą być w ramach tabeli unikalne, ale nie mogą być równe NULL",
+    "b": "kolumna lub zbiór kolumn, które mogą występować jako jednoznaczny identyfikator wierszy w tabeli i mogą przyjmować dowolne wartości",
+    "c": "kolumna lub zbiór kolumn tabeli, w których wartości jednoznacznie identyfikują każdy wiersz w tabeli i te wartości muszą być w ramach tabeli unikalne i nie równe NULL",
+    "d": "kolumna lub zbiór kolumn tabeli, które występują jako jednoznaczny identyfikator wierszy w tabeli nadrzędnej powiązanej z nią w bazie danych",
+    "explanation": "Klucz obcy to referencja do klucza głównego w innej tabeli, co pozwala na tworzenie relacji między danymi."
+  },
+  "58": {
+    "question": "Język manipulowania danymi (DML):",
+    "answer": "a",
+    "a": "pozwala na pobieranie i modyfikowanie danych. Zawiera instrukcje m.in. DELETE",
+    "b": "pozwala administratorowi lub użytkownikowi opisywać i nazywać encje, atrybuty i relacje",
+    "c": "pozwala operować na strukturach, w których dane są przechowywane",
+    "d": "dostarcza proceduralnych narzędzi programistycznych",
+    "explanation": "Data Manipulation Language służy do pracy z konkretnymi danymi: ich pobierania (SELECT), dodawania (INSERT), modyfikacji (UPDATE) i usuwania (DELETE)."
+  },
+  "59": {
+    "question": "Wskaż polecenie (instrukcję), która poprawnie doprowadzi do utworzenia tabeli w bazie danych:",
+    "answer": "d",
+    "a": "create table A (X integer, not null, y date)",
+    "b": "create table (X varchar(30) primary key, y real)",
+    "c": "create table A (X primary key, y integer)",
+    "d": "create table A (X integer primary key, y integer not null)",
+    "explanation": "Opcja 'd' zawiera pełną, poprawną składnię: nazwę tabeli, nazwy kolumn wraz z ich typami oraz niezbędne więzy integralności (primary key, not null)."
+  },
+  "60": {
+    "question": "Cecha transakcji polegająca na tym, że wykonywane są wszystkie operacje albo żadna, nosi nazwę:",
+    "answer": "b",
+    "a": "trwałość",
+    "b": "atomowość",
+    "c": "spójność",
+    "d": "jednorodność",
+    "explanation": "Jest to definicja atomowości (Atomicity) z modelu ACID – transakcja musi zostać wykonana w całości lub wcale."
+  },
+  "61": {
+    "question": "Wyzwalacz (ang. Trigger):",
+    "answer": "a",
+    "a": "automatycznie uruchamia dla danej tabeli dedykowaną dla niej procedurę obsługującą operację modyfikacji danych, typu INSERT, UPDATE czy DELETE",
+    "b": "zawiera procedurę sprawdzającą poprawność modyfikacji danych podczas operacji typu INSERT, UPDATE czy DELETE",
+    "c": "jest funkcją, która może zapewnić poprawność modyfikacji danych dla kilku tabel",
+    "d": "zawiera procedurę poprawiającą błędy danych podczas operacji typu INSERT, UPDATE czy DELETE",
+    "explanation": "Trigger to kod bazy danych, który 'odpala się' automatycznie w reakcji na konkretne operacje na danych w danej tabeli."
+  },
+  "62": {
+    "question": "Aby można było skorzystać z funkcji agregujących, w zapytaniu należy:",
+    "answer": "b",
+    "a": "utworzyć parametr",
+    "b": "użyć grupowania",
+    "c": "utworzyć pole wyliczane",
+    "d": "użyć klauzuli HAVING",
+    "explanation": "Funkcje agregujące (jak SUM czy AVG) zazwyczaj wymagają pogrupowania danych za pomocą klauzuli GROUP BY, aby obliczyć wyniki dla poszczególnych zbiorów."
+  },
+  "63": {
+    "question": "Jakiej instrukcji używamy, aby usunąć tabelę z bazy danych SQL, np. Microsoft SQL Server?",
+    "answer": "c",
+    "a": "DELETE",
+    "b": "DEL",
+    "c": "DROP",
+    "d": "REMOVE",
+    "explanation": "Instrukcja DROP TABLE służy do całkowitego usunięcia struktury tabeli oraz wszystkich danych, które się w niej znajdują."
+  },
+  "64": {
+    "question": "Jakiego polecenia używamy do wykonywania zapytania w SQL?",
+    "answer": "b",
+    "a": "USE",
+    "b": "SELECT",
+    "c": "QUERY",
+    "d": "CHOSE",
+    "explanation": "SELECT to podstawowe polecenie języka SQL służące do pobierania informacji z baz danych."
+  },
+  "65": {
+    "question": "Czym jest sztuczna inteligencja?",
+    "answer": "b",
+    "a": "Technologią programowania",
+    "b": "Symulacją ludzkiej inteligencji w komputerach",
+    "c": "Użyciem komputerów do przyspieszania obliczeń",
+    "d": "Nowym rodzajem oprogramowania",
+    "explanation": "Sztuczna Inteligencja (AI) to dziedzina nauki zajmująca się tworzeniem maszyn wykazujących cechy inteligentne, takie jak rozumowanie i uczenie się."
+  },
+  "66": {
+    "question": "Co oznacza skrót ML w sztucznej inteligencji?",
+    "answer": "a",
+    "a": "Machine Learning",
+    "b": "Manual Logic",
+    "c": "Multi Layer",
+    "d": "Main Library",
+    "explanation": "ML to skrót od Machine Learning (Uczenie Maszynowe), technologii pozwalającej systemom uczyć się bezpośrednio z danych."
+  },
+  "67": {
+    "question": "Jakie z poniższych zadań najczęściej wykonują systemy sztucznej inteligencji?",
+    "answer": "b",
+    "a": "Rozwiązywanie problemów matematycznych",
+    "b": "Uczenie się na podstawie danych",
+    "c": "Przechowywanie informacji",
+    "d": "Odtwarzanie wideo",
+    "explanation": "Główną siłą nowoczesnej sztucznej inteligencji jest zdolność do znajdowania wzorców w ogromnych zbiorach danych i uczenia się na ich podstawie."
+  },
+  "68": {
+    "question": "Czym jest sztuczna sieć neuronowa?",
+    "answer": "b",
+    "a": "Rodzajem bazy danych",
+    "b": "Modelem inspirowanym strukturą i działaniem mózgu",
+    "c": "Programem do obliczeń matematycznych",
+    "d": "Procesem programowania gier",
+    "explanation": "Sztuczne sieci neuronowe to algorytmy, których struktura została zainspirowana sposobem, w jaki neurony w ludzkim mózgu przesyłają informacje."
+  },
+  "69": {
+    "question": "Co oznacza termin „big data” w kontekście sztucznej inteligencji?",
+    "answer": "b",
+    "a": "Przechowywanie informacji na małej przestrzeni",
+    "b": "Eksploatacja i analiza dużych zbiorów danych",
+    "c": "Reguły przetwarzania danych",
+    "d": "Stosowanie języków programowania",
+    "explanation": "Big Data odnosi się do analizy i wydobywania wartości z ogromnych i skomplikowanych zbiorów danych, których tradycyjne metody nie są w stanie przetworzyć."
+  },
+  "70": {
+    "question": "Czym jest rozpoznawanie obrazów?",
+    "answer": "b",
+    "a": "Procesem tworzenia grafiki komputerowej",
+    "b": "Technologią umożliwiającą komputerom identyfikację obiektów na zdjęciach lub filmach",
+    "c": "Metodą rysowania obrazów przez maszyny",
+    "d": "Programem do edycji zdjęć",
+    "explanation": "Rozpoznawanie obrazów to proces, w którym algorytmy identyfikują i klasyfikują obiekty lub cechy w danych wizualnych."
+  },
+  "71": {
+    "question": "Czym jest chatbot?",
+    "answer": "b",
+    "a": "Programem do edycji tekstu",
+    "b": "Systemem AI symulującym rozmowę z użytkownikiem za pomocą tekstu i głosu",
+    "c": "Rodzajem gry komputerowej",
+    "d": "Oprogramowaniem do zarządzania danymi",
+    "explanation": "Chatbot to program komputerowy zaprojektowany do prowadzenia rozmowy z ludźmi w języku naturalnym."
+  },
+  "72": {
+    "question": "Jakie są zastosowania sztucznej inteligencji w autonomicznych pojazdach?",
+    "answer": "b",
+    "a": "Wyłącznie w systemach rozrywkowych",
+    "b": "W rozpoznawaniu otoczenia, planowaniu trasy i podejmowaniu decyzji w czasie rzeczywistym",
+    "c": "Tylko w systemach nawigacyjnych",
+    "d": "W tworzeniu aplikacji mobilnych",
+    "explanation": "Pojazdy autonomiczne wykorzystują AI do analizy danych z czujników, co pozwala im bezpiecznie poruszać się w ruchu drogowym bez udziału kierowcy."
+  },
+  "73": {
+    "question": "Jakie są możliwości zastosowania sztucznej inteligencji w edukacji?",
+    "answer": "b",
+    "a": "Tylko w nauczaniu przedmiotów ścisłych",
+    "b": "Personalizacja nauczania, analiza postępów uczniów oraz wsparcie nauczycieli",
+    "c": "Wyłącznie w tworzeniu materiałów dydaktycznych",
+    "d": "Tylko w administracji szkolnej",
+    "explanation": "AI w edukacji pozwala na dopasowanie materiałów do indywidualnego tempa nauki ucznia oraz pomaga nauczycielom w identyfikacji obszarów wymagających poprawy."
+  },
+  "74": {
+    "question": "Co oznacza skrót NLP w kontekście sztucznej inteligencji?",
+    "answer": "b",
+    "a": "Network Learning Processing",
+    "b": "Natural Language Processing",
+    "c": "Numerical Learning Programming",
+    "d": "Neural Language Prediction",
+    "explanation": "NLP to Przetwarzanie Języka Naturalnego – dziedzina AI zajmująca się interakcją maszyn z mową i pismem ludzkim."
+  },
+  "75": {
+    "question": "Jak sztuczna inteligencja wpływa na rynek pracy?",
+    "answer": "b",
+    "a": "Nie ma wpływu",
+    "b": "Może prowadzić do automatyzacji niektórych zawodów oraz stworzyć nowe możliwości zatrudnienia",
+    "c": "Zawsze prowadzi do utraty miejsc pracy",
+    "d": "Jest korzystna tylko dla dużych firm",
+    "explanation": "AI zmienia rynek pracy poprzez przejmowanie powtarzalnych zadań, ale jednocześnie generuje zapotrzebowanie na nowe umiejętności i zawody związane z technologią."
+  }
+}
